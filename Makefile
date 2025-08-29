@@ -39,7 +39,7 @@ songbook:
 # Create sorted list of songs
 # Sort alphabetically by slug
 # Multiple songs with the same title start with the song without a number suffixed slug
-	@find $(SRC_DIR) -name '*.pro' -exec basename {} .pro \; | sort -t '-' -k1,1 -k2V -k3n | sed 's/^/src\//' | sed 's/$$/.pro/' > $(SRC_DIR)/songbook.txt
+	@find $(SRC_DIR) -name '*.pro' -exec basename {} .pro \; | sort -t '-' -k1,1 -k2V -k3n | sed "s|^|$(PWD)/src/|" | sed 's/$$/.pro/' > $(SRC_DIR)/songbook.txt
 	@$(CHORDPRO_CMD) --filelist=$(SRC_DIR)/songbook.txt --config=$(CONFIG_DIR)/songbook.json --no-csv --cover=$(ASSETS_DIR)/cover/cover.pdf -o "$(SONGBOOK)"
 	@exiftool -Title=$(SONGBOOK_TITLE) -overwrite_original "$(SONGBOOK)"
 	@rm $(SRC_DIR)/songbook.txt
