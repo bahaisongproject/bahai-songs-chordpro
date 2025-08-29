@@ -64,8 +64,8 @@ sync:
 
 .PHONY: push
 push:
-	uv run scripts/push.py
+	./scripts/push.py
 
 .PHONY: pull
 pull:
-	uv run scripts/pull.py
+	./scripts/pull.py

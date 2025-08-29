@@ -1,3 +1,8 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# dependencies = ["requests", "dotenv"]
+# ///
+
 import os
 import requests
 import json

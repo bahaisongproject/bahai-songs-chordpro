@@ -1,3 +1,7 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# dependencies = ["psycopg2", "dotenv"]
+# ///
 import os
 import psycopg2
 from dotenv import load_dotenv
