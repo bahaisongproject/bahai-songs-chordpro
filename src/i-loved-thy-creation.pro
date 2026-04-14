@@ -6,7 +6,7 @@
 
 {c: Capo: IV}
 
-[||:] [Am] [Am/F#] [:|| x3] 
+[*||:] [Am] [Am/F#] [*:|| x3]
 [Fmaj7] [E] [Am] [Am]
 
 ||: O S[Am]on of Man! I l[G]oved thy creation,

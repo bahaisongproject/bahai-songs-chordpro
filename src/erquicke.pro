@@ -3,7 +3,7 @@
 {music: Chad Smith}
 {song_url: https://bsp.app/erquicke}
 
-[||:][Bm] [Bsus2] [Em7] [Asus2] [A][:||]
+[*||:][Bm] [Bsus2] [Em7] [Asus2] [A][*:||]
 O [Bm]Gott! Er[Bm]quicke und er[F#]freue meinen [F#]Geist.
 [Em7]Läutere mein [Em7]Herz. Ent[D]flamme meine [F#]Kraft.
 [Bm]Alles [Bm]lege ich in [F#]Deine [F#]Hand.

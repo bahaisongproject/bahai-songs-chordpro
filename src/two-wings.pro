@@ -7,7 +7,7 @@
 
 {c: Capo: II}
 
-[||:] [F] [C] [G] [Am] [:||]
+[*||:] [F] [C] [G] [Am] [*:||]
 ||: [F] The w[C]orld [G] of hum[Am]anity has
 [F] two w[C]ings, [G] two w[Am]ings :||
 ||: [F] — one is  [C]women [G] and the other [Am] men :|| x4

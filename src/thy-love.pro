@@ -7,7 +7,7 @@
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}
 {define: A7sus base-fret 1 frets x 0 0 0 3 3}
 
-[||:] [Cadd9] [A7sus] [G] [:||]
+[*||:] [Cadd9] [A7sus] [G] [*:||]
 
 [Cadd9] O Lord m[A7sus]ake us as w[G]aves
 of the s[Cadd9]ea and as the fl[A7sus]owers that gr[G]ow

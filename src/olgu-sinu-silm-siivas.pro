@@ -5,7 +5,7 @@
 
 {c: Capo: IV}
 
-[||:] [D] [Dsus2] [:||]
+[*||:] [D] [Dsus2] [*:||]
 
 Olgu s[D]inu silm s[Dsus2]iivas
 Sinu[D] käsi [Dsus2]ustav

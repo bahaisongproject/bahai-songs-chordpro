@@ -8,7 +8,7 @@
 
 {c: Capo: II}
 
-[||:] [Cm7][Am7][C][Cm7][Am7][G] [:||]
+[*||:] [Cm7][Am7][C][Cm7][Am7][G] [*:||]
 
 ||: [Cm7]  Sorrow not save that tho[Am7]u art far from U[C]s.
 [Cm7]  Rejoice not save that t[Am7]hou art drawing n[G]ear :||

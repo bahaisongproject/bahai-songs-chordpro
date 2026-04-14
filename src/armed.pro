@@ -3,7 +3,7 @@
 {music: Devon Gundry}
 {song_url: https://bsp.app/armed}
 
-[||:] [D] [Bm] [G] [D] [:||]
+[*||:] [D] [Bm] [G] [D] [*:||]
 
 ||: [D]Armed with the P[Bm]ower of Thy Name
 N[G]othing can ever hurt me now

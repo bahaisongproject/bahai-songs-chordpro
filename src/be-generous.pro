@@ -10,7 +10,7 @@
 {transpose: -4}
 {c: Capo: IV}
 
-[||:] [B] [G#m] [D#m] [C#] [:|| x4]
+[*||:] [B] [G#m] [D#m] [C#] [*:|| x4]
 
 ||: O Children of[B] Dust! Tell the r[G#m]ich of the midnight
 [D#m] sighing of the p[C#]oor,

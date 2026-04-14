@@ -3,7 +3,7 @@
 {music: }
 {song_url: https://bsp.app/oo-jumal-juhata-mind-o-god-guide-me}
 
-[||:] [C] [G] [F] [G] [:||]
+[*||:] [C] [G] [F] [G] [*:||]
 Oo J[C]umal  juhata [G]mind
 k[F]aitse m[G]ind
 t[C]ee minust hiilgav [G]lamp

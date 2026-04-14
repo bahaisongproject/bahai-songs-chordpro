@@ -5,7 +5,7 @@
 
 {c: Capo: IV }
 
-[||:][Em][G][C][C][:||]
+[*||:][Em][G][C][C][*:||]
 
 {c: Part A}
 ||: M[Em]aakt mij als een lamp die over[G]al in uw gebieden schijnt

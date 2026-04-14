@@ -5,7 +5,7 @@
 {define: Bm11 base-fret 1 frets x 2 2 2 3 2}
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
-[][||:][D][F#m][G][Em][:||][A]
+[][*||:][D][F#m][G][Em][*:||][A]
 
 O [D]Gott! Banne alles, was zu [F#m]Zwietracht führt,
 und be[G]reite uns, was [Em]Einheit und Einigkeit [A]fördert.

@@ -10,7 +10,7 @@
 {define: Em9/A base-fret 4 frets 2 2 1 0 0 0}
 {define: Em/B base-fret 5 frets 3 3 1 0 0 0}
 
-[||:][Em(b13)]  [Em9]  [Em]  [Em(b13)][:||]
+[*||:][Em(b13)]  [Em9]  [Em]  [Em(b13)][*:||]
 
 
 [Em(b13)]Ya           el[Em9]ahi,        [Em]Ya         el[Em(b13)]ahi

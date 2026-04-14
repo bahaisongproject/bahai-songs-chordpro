@@ -3,7 +3,7 @@
 {music: Chad Smith}
 {song_url: https://bsp.app/die-liebe-zu-dir}
 
-[||:] [Bm] [Gmaj7] [Em7] [F#7] [:||]
+[*||:] [Bm] [Gmaj7] [Em7] [F#7] [*:||]
 
 [Bm] Dein Name ist meine [Gmaj7]Heilung O mein [Em7]Gott [F#7]
 [Bm] Dein Gedenken meine [Gmaj7]Arznei, Deine [Em7]Nähe meine [F#7]Hoffnung

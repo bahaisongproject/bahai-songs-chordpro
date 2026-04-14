@@ -3,7 +3,7 @@
 {music: Arshan Yeganegi, Sophie Jain}
 {song_url: https://bsp.app/reaches-of-the-spirit}
 
-[||:] [Am] [G] [F] [C] [:||]
+[*||:] [Am] [G] [F] [C] [*:||]
 
 [Am]May they a[G]ll
 

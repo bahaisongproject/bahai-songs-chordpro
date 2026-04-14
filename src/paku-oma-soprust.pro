@@ -6,7 +6,7 @@
 {c: Capo: IV}
 
 
-[||:] [Em] [Am] [:||]
+[*||:] [Em] [Am] [*:||]
 
 ||: P[Em]aku Oma sõ[Am]prust ole [Em]usalduse v[Am]ääriline
 [Em]Ole palsam [Am]igale h[Em]aaval[Am]e

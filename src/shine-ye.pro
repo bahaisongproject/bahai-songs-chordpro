@@ -12,7 +12,7 @@
 
 {c: Capo: IV}
 
-[||:] [Em] [Bm/D] [Cmaj7] [G] [:||]
+[*||:] [Em] [Bm/D] [Cmaj7] [G] [*:||]
 Sh[Em]ine ye [Bm/D] like unt[Cmaj7]o the sun [G]
 and r[Em]oar and m[Bm/D]ove like unto the s[Cmaj7]ea [G]
 Sh[Em]ine ye [Bm/D] like unt[Cmaj7]o the sun [G]

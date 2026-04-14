@@ -6,7 +6,7 @@
 
 {c: Capo: II}
 
-[||:] [Am] [G] [F] [G] [:||]
+[*||:] [Am] [G] [F] [G] [*:||]
 [Am] Ey Yàll[G]a  [F]   wommat m[G]a, [Am]
 ey Yàll[G]a [F] sàmm m[G]a
 
@@ -20,4 +20,4 @@ ey Yàll[G]a [F] sàmm m[G]a
  [Am] [G] [F] [G]
  ||: Y[Am]aay-[G] Bor[F]oom [G] kàttan di Bor[Am]oom doole, [G] kàttan di Bor[F]oom doole [G] :||
 
-[||:] [Am] [G] [F] [G] [:||]
+[*||:] [Am] [G] [F] [G] [*:||]
