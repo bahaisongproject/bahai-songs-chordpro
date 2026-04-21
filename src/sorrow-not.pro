@@ -2,9 +2,6 @@
 {words: Bahá’u’lláh}
 {music: Alexander Riedesser, Kian Panahi}
 {song_url: https://bsp.app/sorrow-not}
-{define: chord1 base-fret 6 frets x 3 0 x 2 x}
-{define: chord2 base-fret 4 frets x 4 0 x 2 x}
-{define: chord3 base-fret 3 frets x 3 0 x 1 x}
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
 {c: Capo: V}
