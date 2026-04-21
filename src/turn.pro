@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: Tom Francis}
 {song_url: https://bsp.app/turn}
+{define: D/B base-fret 1 frets x 2 0 2 3 2}
 
 M[D]y God, my Ad[G]ored [D]One, my K[Em]ing and m[D]y Des[A]ire 
 What t[D/B]ongue can voice my th[A]anks to th[D]ee 

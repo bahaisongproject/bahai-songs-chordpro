@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: Nadine Reyhani}
 {song_url: https://bsp.app/durch-deine-liebe}
+{define: G/F# base-fret 1 frets 2 2 0 0 0 1}
 
 {c: Capo: IV}
 

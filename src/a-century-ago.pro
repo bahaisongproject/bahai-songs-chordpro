@@ -9,7 +9,7 @@ Few pe[F]ople had a cl[G7]ue, but every [C]atom was ren[Am]ewed.
 and for m[D7]ankind there occurred a reb[G7]irth.
 
 A reb[F]irth that is to s[G7]ay, we're all l[C]iving in a new [Am]Day.
-A new d[F]ay a[.]nnounced in the p[G7]ast now [.]has d[C]awned here at last.
+A new d[F]ay a[*.]nnounced in the p[G7]ast now [*.]has d[C]awned here at last.
 But so many p[F]eople are unaw[G7]are perhaps s[C]ome may not even c[Am]are.
 But we've the t[D7]ools to bring together all mank[G7]ind.
 

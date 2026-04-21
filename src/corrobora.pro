@@ -3,7 +3,7 @@
 {music: Neda Parsa}
 {song_url: https://bsp.app/corrobora}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
-{define: [G/B] base-fret 1 frets x 2 0 0 3 3}
+{define: G/B base-fret 1 frets x 2 0 0 3 3}
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}
 {define: Em7 base-fret 1 frets x x 2 0 3 3}
 {define: Fsus2 base-fret 1 frets 1 x x 0 1 x}

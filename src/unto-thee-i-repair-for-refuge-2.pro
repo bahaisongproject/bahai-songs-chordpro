@@ -8,6 +8,7 @@
 {define: G#Mb5add#9 base-fret 1 frets 4 3 0 4 0 4}
 {define: Em7 base-fret 1 frets 0 2 0 0 0 0}
 {define: Em7/B base-fret 7 frets 1 1 3 1 2 1}
+{define: Fmaj7/C base-fret 1 frets x 3 3 2 1 0}
 
 {c: Capo: II}
 

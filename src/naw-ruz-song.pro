@@ -2,6 +2,7 @@
 {words: }
 {music: Emma Ateshi}
 {song_url: https://bsp.app/naw-ruz-song}
+{define: C/B base-fret 1 frets x 2 2 0 1 0}
 
 
 [C]Grass un[C/B]der my [Am]feet
@@ -16,7 +17,7 @@ A [C/B]fresh [Am]start
 A[F]nother year of [C]learning
 A[C/B]nother year filled with [Am]art
 The [F]smell of [C]flowers rea[C/B]ching my [Am]nose
-The [F]love of Ba[C]ha'u'llah [C/B]fl[em]o[Am]ws
+The [F]love of Ba[C]ha'u'llah [C/B]fl[Em]o[Am]ws
 [F]Happiness, [C]dancing, [C/B]laughter all [Am]around
 [F]Can't help but [C]enjoy the s[C/B]ou[Am]nd
 [F]Thinking about my [C]family

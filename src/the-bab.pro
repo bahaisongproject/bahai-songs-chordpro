@@ -2,6 +2,7 @@
 {words: The Báb}
 {music: Naim Zabihi, Negin Zabihi, Pascal Naim Schmidt}
 {song_url: https://bsp.app/the-bab}
+{define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
 ||: I am the Pr[Cadd9]imal P[G]oint from wh[Em7]ich have b[D/F#]een
 [Cadd9] gener[G]ated all cre[Em7]ated th[D/F#]ings. :||
