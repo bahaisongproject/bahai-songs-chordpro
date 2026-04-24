@@ -10,7 +10,8 @@ Ob[C]novi moju mirnu savjest, o, [G]Nado moja! :||
 
 [Em]  Duhom moći [D]učvrsti me u [G]Tvojoj [Em]Stvari, 
 [D]o-o-o-[C]o, 
-||: Najljubljeniji [G/Em]mo-o-o-[D/C]oj :|| x4
+||: Najljubljeniji [G]mo-o-o-[D]oj :||
+||: Najljubljeniji [Em]mo-o-o-[C]oj :||
  
 [G]Svjetlom slave Svoje otkrij mi Svoj put, 
 o, [C]Ti, Ti Cilju moje [G]čežnje! 
@@ -19,4 +20,5 @@ Snagom Svoje uzvišene moći podigni me
 
 [Em]  Duhom moći [D]učvrsti me u [G]Tvojoj [Em]Stvari, 
 [D]o-o-o-[C]o, 
-||: Najljubljeniji [G/Em]mo-o-o-[D/C]oj :|| x4
+||: Najljubljeniji [G]mo-o-o-[D]oj :||
+||: Najljubljeniji [Em]mo-o-o-[C]oj :||

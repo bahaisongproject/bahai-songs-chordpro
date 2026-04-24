@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Chad Smith}
 {song_url: https://bsp.app/erquicke}
+{define: Bm9 base-fret 1 frets x 2 0 2 2 2}
 
 [*||:][Bm] [Bsus2] [Em7] [Asus2] [A][*:||]
 O [Bm]Gott! Er[Bm]quicke und er[F#]freue meinen [F#]Geist.
