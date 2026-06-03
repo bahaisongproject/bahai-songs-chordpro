@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: Rowshan}
 {song_url: https://bsp.app/immensity-of-space}
+
 {define: Fmaj7 base-fret 0 frets x 3 3 2 1 0}
 {define: G6 base-fret 2 frets x 3 3 2 1 0}
 {define: Am(V1) base-fret 4 frets x 3 3 x 1 x}

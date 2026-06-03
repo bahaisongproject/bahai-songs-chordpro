@@ -3,7 +3,6 @@
 {music: Jakob Hess, S. Khamsi}
 {song_url: https://bsp.app/ein-reines-herz}
 
-
 ||: Ein reines H[C]erz ist wie ein S[Am]piegel,
 m[F]ach ihn durch Liebe und L[G]oslösung r[C]ein von a[Am]llem außer G[F]ott (außer G[G]ott), :||
 

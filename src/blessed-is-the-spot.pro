@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: The Irish Bahá'ís}
 {song_url: https://bsp.app/blessed-is-the-spot}
+
 {define: Am/G base-fret 1 frets 3 0 2 2 1 0}
 {define: Am/F# base-fret 1 frets 2 0 2 2 1 0}
 {define: Am/F base-fret 1 frets 1 0 2 2 1 0}

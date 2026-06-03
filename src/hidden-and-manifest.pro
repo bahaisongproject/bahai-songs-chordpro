@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: James Mohajer}
 {song_url: https://bsp.app/hidden-and-manifest}
+
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
 {c: Capo: III}

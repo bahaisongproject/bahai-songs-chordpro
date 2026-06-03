@@ -3,7 +3,6 @@
 {music: Sabi Msafiri}
 {song_url: https://bsp.app/bahaullah-alikuja-kupatanisha-ulimwengu}
 
-
 ||: Bahá'u'lláh alikuwa
 moja wapo ya wafuasi wake Báb hi- :||
 

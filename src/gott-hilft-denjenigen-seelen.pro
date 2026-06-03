@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Franziska Feuerstein-Antara}
 {song_url: https://bsp.app/gott-hilft-denjenigen-seelen}
+
 {define: Esus4 base-fret 1 frets 0 2 2 2 0 0}
 
 ||: G[Am]ott hilft denjenigen Seelen, 

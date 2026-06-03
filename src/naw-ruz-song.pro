@@ -2,6 +2,7 @@
 {words: }
 {music: Emma Ateshi}
 {song_url: https://bsp.app/naw-ruz-song}
+
 {define: C/B base-fret 1 frets x 2 2 0 1 0}
 
 

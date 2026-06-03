@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: Maya Asdaghi}
 {song_url: https://bsp.app/sorrow-not-2}
+
 {define: chord1 base-fret 6 frets x 3 0 x 2 x}
 {define: chord2 base-fret 4 frets x 4 0 x 2 x}
 {define: chord3 base-fret 3 frets x 3 0 x 1 x}

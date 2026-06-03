@@ -2,6 +2,7 @@
 {words: The Báb}
 {music: }
 {song_url: https://bsp.app/gott-schenkt-genuege}
+
 {define: Dm/A base-fret 1 frets x 0 0 2 3 1}
 
 ||: G[Am]ott schenkt Genüge [Dm/A]allen Dingen

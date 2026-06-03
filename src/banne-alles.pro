@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Corinne Bahia}
 {song_url: https://bsp.app/banne-alles}
+
 {define: Bm11 base-fret 1 frets x 2 2 2 3 2}
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 

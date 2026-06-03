@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Bianca Friedmann, Jule Kropp, Katrin Modabber}
 {song_url: https://bsp.app/gebet-fuer-die-jugend}
+
 {define: Am/F base-fret 1 frets 1 0 2 2 1 0}
 {define: G6/H base-fret 1 frets 0 2 0 0 0 0}
 

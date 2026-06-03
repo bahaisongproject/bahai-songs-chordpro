@@ -2,6 +2,7 @@
 {words: Bahá’u’lláh}
 {music: Marcel Kropp, Rahá Poostchi}
 {song_url: https://bsp.app/das-wohlergehen-der-menschheit}
+
 {define: D base-fret 1 frets 0 3 0 2 3 0}
 
 ||: Das W[G]ohlerg[Cadd9]ehen der Menschh[D]eit, 
