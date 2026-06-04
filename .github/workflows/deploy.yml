@@ -24,7 +24,7 @@ jobs:
         env:
           BSP_CHORDPRO_DIR: ${{ github.workspace }}/src
           BSP_CONVEX_URL: ${{ secrets.BSP_CONVEX_URL }}
-        run: bsp sheets dowload --all --check
+        run: bsp sheets download --all --check
       - name: Setup Perl
         uses: shogo82148/actions-setup-perl@v1
         with:
