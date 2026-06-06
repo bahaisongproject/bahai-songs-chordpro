@@ -1,7 +1,17 @@
-name: Build and deploy song sheets
-on: [push]
+name: Refresh and deploy song sheets
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-and-deploy-song-sheets
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
+  refresh-build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,49 +30,78 @@ jobs:
         run: |
           bun install --frozen-lockfile
           bun run cli:install
-      - name: Check sheets are synced
+      - name: Refresh song sheets
+        id: refresh
         env:
           BSP_CHORDPRO_DIR: ${{ github.workspace }}/src
           BSP_CONVEX_URL: ${{ secrets.BSP_CONVEX_URL }}
-        run: bsp sheets download --all --check
+        run: |
+          bsp sheets download --all
+
+          if [ -z "$(git status --porcelain -- src)" ]; then
+            echo "No song sheet changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- src
+          git commit -m "Refresh song sheets"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
       - name: Setup Perl
+        id: perl
+        if: steps.refresh.outputs.changed == 'true'
         uses: shogo82148/actions-setup-perl@v1
         with:
           perl-version: "5.38"
       - name: Cache CPAN Modules
+        if: steps.refresh.outputs.changed == 'true'
         uses: actions/cache@v4
         with:
           path: local
           key: perl-${{ steps.perl.outputs.perl-hash }}
       - name: Install system dependencies for chordpro
+        if: steps.refresh.outputs.changed == 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y pkg-config libharfbuzz-dev
       - name: Install chordpro
+        if: steps.refresh.outputs.changed == 'true'
         run: cpm install --show-build-log-on-failure chordpro
       - name: Install exiftool
+        if: steps.refresh.outputs.changed == 'true'
         run: sudo apt install libimage-exiftool-perl -y
       - name: Cache md5 checksums
+        if: steps.refresh.outputs.changed == 'true'
         uses: actions/cache@v4
         with:
           path: .md5
           key: always-restore-cache
       - name: Cache PDFs
+        if: steps.refresh.outputs.changed == 'true'
         uses: actions/cache@v4
         with:
           path: public
           key: always-restore-cache
       - name: Make song sheets
+        if: steps.refresh.outputs.changed == 'true'
         run: make
       - name: Make song book
+        if: steps.refresh.outputs.changed == 'true'
         run: make songbook
       - name: Copy chordpro files
+        if: steps.refresh.outputs.changed == 'true'
         run: make copypro
       - name: Create archive
+        if: steps.refresh.outputs.changed == 'true'
         run: make archive
       - name: Install Netlify
+        if: steps.refresh.outputs.changed == 'true'
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
+        if: steps.refresh.outputs.changed == 'true'
         id: netlify_deploy
         run: |
           netlify deploy \
