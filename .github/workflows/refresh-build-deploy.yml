@@ -18,11 +18,11 @@ jobs:
       commit_sha: ${{ steps.refresh.outputs.commit_sha }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: ${{ github.ref_name }}
       - name: Checkout BSP CLI repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: daysm/bahai-songs
           path: bahai-songs
