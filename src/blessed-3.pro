@@ -3,6 +3,8 @@
 {music: Melody Mazloom}
 {song_url: https://bsp.app/blessed-3}
 
+{define: Fmaj7 base-fret 1 frets x 3 3 2 1 0}
+
 {c: Capo: III}
 
 Blessed is the sp[C]ot, and the house, and the place, and the city,
