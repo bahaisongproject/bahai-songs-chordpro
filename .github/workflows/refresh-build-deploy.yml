@@ -1,4 +1,4 @@
-name: Refresh and deploy song sheets
+name: Refresh, build, and deploy song sheets
 
 on:
   workflow_dispatch:
