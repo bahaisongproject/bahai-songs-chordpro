@@ -1,12 +1,10 @@
-{title: Blessed (Gospel Version)}
+{title: Blessed is the Spot}
 {words: Bahá’u’lláh}
-{music: Elizabeth Hahn}
+{music: Lua Crofts Faragher}
 {song_url: https://bsp.app/blessed-gospel-version}
 
 {key:G}
 {define: C/B base-fret 1 frets x 2 2 0 1 0}
-
-{c:As interpreted by Lua Crofts Faragher}
 
 {c:Intro}
 {start_of_grid}
