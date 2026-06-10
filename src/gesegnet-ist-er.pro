@@ -3,8 +3,11 @@
 {music: Ruhi Camp, Germany}
 {song_url: https://bsp.app/gesegnet-ist-er}
 
-||: Ges[Bm]egnet ist [D]er, der sich [A]in der Blüte seiner J[E]ugend :||
-und auf dem H[Bm]öhepunkt seines L[D]ebens erh[A]ebt, erh[E]ebt
-und auf dem H[Bm]öhepunkt seines L[D]ebens erh[A]e-[E]   bt
-||: der S[Bm]ache des H[D]errn des [A]Anfangs und des [E]Endes zu dienen :||
-||: sein H[Bm]e-[G]   rz mit S[D]einer L[A]iebe schmückt :||
+{c: Capo II}
+
+||: Ges[Am]egnet ist [C]er, der sich [G]in der Blüte seiner J[D]ugend :||
+und auf dem H[Am]öhepunkt seines L[C]ebens erh[G]ebt, erh[D]ebt
+und auf dem H[Am]öhepunkt seines L[C]ebens erh[G]e-   [D]bt
+||: der S[Am]ache des H[C]errn des [G]Anfangs und des [D]Endes zu dienen :||
+||: sein H[Am]e-[F]   rz mit S[C]einer L[G]iebe schmückt :||
+

@@ -3,11 +3,11 @@
 {music: Roger's Park Musical Devotional Assemblage}
 {song_url: https://bsp.app/a-lover-feareth-nothing}
 
-A lover, a lover feareth nothing and
-no harm, no harm can come nigh him:
-Thou seest, thou seest him chill in the fire, fire
-dry in the sea.
+A l[Am]over, a lover feareth n[Dm]othing and
+no h[C]arm, no harm can come n[E]igh him:
+Thou s[Am]eest, thou seest him c[Dm]hill in the fir[C]e, fire
+dry in t[E]he sea.
 
 {c: At the same time}
-A lover is he who is chill in hell fire;
-A knower is he who is dry in the sea.
+A l[Am]over is he who is chill in h[Dm]ellfire;
+A kn[C]ower is he who is dry in t[E]he sea.
