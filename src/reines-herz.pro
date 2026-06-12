@@ -7,10 +7,10 @@
 
 
 [Am] [F]
-|: Dies ist mein erster Rat
+||: Dies ist mein erster Rat
 [C] [G]
-Besitze ein reines, ein reines Herz :|
+Besitze ein reines, ein reines Herz :||
 [Am] [F]
-|: Besitze ein reines (reines), gütiges (gütiges) und
+||: Besitze ein reines (reines), gütiges (gütiges) und
 [G] [Am]
-strahlendes (klatsch, klatsch), ein strahlendes Herz :|
+strahlendes (klatsch, klatsch), ein strahlendes Herz :||
