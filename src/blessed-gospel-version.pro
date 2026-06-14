@@ -7,9 +7,7 @@
 {define: C/B base-fret 1 frets x 2 2 0 1 0}
 
 {c:Intro}
-{start_of_grid}
-| Am | Cm | G | D7 | D7 |
-{end_of_grid}
+[Am] [Cm] [G] [D7] [D7]
 
 {c:Verse}
 {soc}
