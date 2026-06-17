@@ -1,6 +1,6 @@
 {title: Reines Herz}
 {words: }
-{music: Negin Zabihi}
+{music: Aria Behjat, Negin Zabihi}
 {song_url: https://bsp.app/reines-herz}
 
 {c: Capo: I}
