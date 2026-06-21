@@ -1,6 +1,6 @@
 {title: All We Can}
 {words: Shoghi Effendi}
-{music: ISGP Year 2 (Germany, 2014)}
+{music: Intoned by the ISGP year 2 course in Germany, 2014}
 {song_url: https://bsp.app/all-we-can}
 
 {c: Capo: I}

@@ -1,6 +1,6 @@
 {title: Unto Thee I Repair for Refuge}
 {words: The Báb}
-{music: ISGP Year 2 (Germany, 2015)}
+{music: Intoned in 2015 by the ISGP year 2 course in Germany}
 {song_url: https://bsp.app/unto-thee-i-repair-for-refuge}
 
 {define: G base-fret 1 frets 3 2 0 0 3 3}

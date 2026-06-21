@@ -6,9 +6,9 @@
 [C]Love, love, [F]love, love
 [G]Love your fellow m[C]an
 [C]Love, love, [F]love is
-[D7]Howthe world be[G]gan
+[D7]How the world be[G]gan
 [C]God loved cre[F]ation
-[C]SoHe cre[G]ated thee to
+[C]So He cre[G]ated thee to
 [C]Love, love, [F]love Him
 [G]And humani[C]ty
 

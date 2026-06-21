@@ -1,6 +1,6 @@
 {title: O Ni Uppriktiga (O Ye Sincere Ones)}
 {words: ‘Abdu’l-Bahá}
-{music: Ruhi 5 Ruhi Campaign, Sweden}
+{music: Intoned at a Ruhi book 5 campain in Sweden}
 {song_url: https://bsp.app/o-ni-uppriktiga-o-ye-sincere-ones}
 
 ||: [G]O ni uppriktiga, n[D]i som längtar, 

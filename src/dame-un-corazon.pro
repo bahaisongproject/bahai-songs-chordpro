@@ -3,7 +3,6 @@
 {music: Alicia Perdú}
 {song_url: https://bsp.app/dame-un-corazon}
 
-
 {c: Capo II}
 
 ||: [Am] Dame un c[G]orazón

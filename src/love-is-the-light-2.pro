@@ -1,6 +1,6 @@
 {title: Love is the Light}
 {words: ‘Abdu’l-Bahá}
-{music: A group of friends at the BWC}
+{music: Intoned by a group of friends at the Bahá'í World Centre}
 {song_url: https://bsp.app/love-is-the-light-2}
 
 {c: Capo: III}

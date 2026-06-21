@@ -1,6 +1,6 @@
 {title: My Name is ‘Abdu’l‑Bahá}
 {words: }
-{music: James Alexander, Lua Rohani}
+{music: James Mohajer, Lua Rohani}
 {song_url: https://bsp.app/my-name-is-abdul-baha}
 
 [Am] [Em] [F] [C]
