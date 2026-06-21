@@ -19,3 +19,11 @@ I p[Am]rayed for w[C]eeks on [Fadd9]end, till [Am]one day [C]you [Fadd9]appeared
 [Am]In a m[C]ighty v[Fadd9]ision, you s[Am]aid my des[C]ire w[Fadd9]ould be fulfilled
 And [F]I-[G]     will g[C]ive it [C/B]all for [Am]you. M[F]y l[G]ife, [C]I would [C/B]give it [Am]too
 ||: [F]All I want is [G]to be close with y[C]ou. [C/B][Am]      :||
+
+||: The [F]day will come where [G]you will have [C]recogni[C/B]sed [Am]me:||
+
+I will [Am]follow [C]you for[Fadd9]ever, I will [Am]sacri[C]fice it [F]all
+[F]An[G]is, he [C]gave it [C/B]all for [Am]you, [F]An[G]is, his [C]life, he [C/B]gave it [Am]too
+||: [F]All he wanted was [G]to be close with [C]you [C/B] [Am]  :||
+[F]All I want is [G]to be close with y[C]ou [C/B] [Am]
+[F][G][C]

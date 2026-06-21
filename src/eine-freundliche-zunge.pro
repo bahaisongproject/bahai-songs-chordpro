@@ -1,6 +1,6 @@
 {title: Eine freundliche Zunge}
 {words: }
-{music: Felix Witzenbichler, Johanna Müller, Negin Zabihi, Niko Kristan}
+{music: Felix Witzenbichler, Johanna Müller, Negin Zabihi, Nikola Kristan}
 {song_url: https://bsp.app/eine-freundliche-zunge}
 
 {c: Capo: II}
