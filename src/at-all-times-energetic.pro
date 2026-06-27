@@ -1,10 +1,10 @@
 {title: At All Times}
 {words: }
-{music: }
+{music: JYSEP Goodna}
 {song_url: https://bsp.app/at-all-times-energetic}
 
 
-{c: Capo II}
+{c: Capo: II}
 
 [C]At all t[Am]imes do I sp[F]eak of you and c[C]all you to mind.
 I pr[C]ay unto the Lord, with t[Am]ears I implore
