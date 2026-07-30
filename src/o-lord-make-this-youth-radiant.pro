@@ -3,6 +3,7 @@
 {music: Youth of Guam}
 {song_url: https://bsp.app/o-lord-make-this-youth-radiant}
 
+{capo: 3}
 {c: Capo: III}
 
 O L[Em]ord! Make this youth radi[C]ant, and confer Thy bount[G]y

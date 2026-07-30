@@ -3,6 +3,7 @@
 {music: Emilia Ahrari, Lua Nazerian}
 {song_url: https://bsp.app/do-not-despair}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: Do not desp[C]air! Work st[G]eadily. Sincerity and l[E7]ove,

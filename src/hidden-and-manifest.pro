@@ -5,6 +5,7 @@
 
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
+{capo: 3}
 {c: Capo: III}
 
 [G]   This is the Voice of G[C]od, if ye d[Em]o but h[D/F#]earken.

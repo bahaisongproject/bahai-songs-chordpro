@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/busy-not-thyself-feuer-und-gold}
 
+{capo: 3}
 {c: Capo III}
 
 ||: O Son of B[Am]eing! (O Son of B[Am]eing!)

@@ -3,6 +3,7 @@
 {music: Put to music by a group of youth from Auckland, New Zealand}
 {song_url: https://bsp.app/looking-ahead-on-this-path}
 
+{capo: 5}
 {c: Capo: V}
 
 ||: L[A]ooking ahead on this path

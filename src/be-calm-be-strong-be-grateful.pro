@@ -3,6 +3,7 @@
 {music: Clara Haskell}
 {song_url: https://bsp.app/be-calm-be-strong-be-grateful}
 
+{capo: 3}
 {c: Capo: III}
 
 [C]||: Be calm, [Am]     be strong, be [Fmaj7]          grateful, be [C]   gratef[G]ul.

@@ -3,6 +3,7 @@
 {music: Elisabeth Ots}
 {song_url: https://bsp.app/paku-oma-soprust}
 
+{capo: 4}
 {c: Capo: IV}
 
 

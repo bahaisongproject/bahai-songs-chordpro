@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/ye-are-the-flowers-of-one-garden}
 
+{capo: 5}
 {c: Capo: V}
 
 Ye are the fl[C]owers of one garden and the fr[G]uits of one tree

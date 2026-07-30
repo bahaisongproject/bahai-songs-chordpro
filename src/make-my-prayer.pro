@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/make-my-prayer}
 
+{capo: 4}
 {c: Capo: IV}
 
    

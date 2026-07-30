@@ -3,6 +3,7 @@
 {music: Alexander Riedesser, Kian Panahi}
 {song_url: https://bsp.app/groessere-gnade}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: G[G]ibt es eine größere G[Em]nade

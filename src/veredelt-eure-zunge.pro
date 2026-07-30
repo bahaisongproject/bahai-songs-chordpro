@@ -3,6 +3,7 @@
 {music: Jonas Bruckmann, Rahá Poostchi}
 {song_url: https://bsp.app/veredelt-eure-zunge}
 
+{capo: 2}
 {c: Capo: II}
 
 Veredelt eure Z[F]unge [G]   durch Wahrhaftigk[C]eit

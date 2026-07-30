@@ -3,6 +3,7 @@
 {music: Birgid Täht}
 {song_url: https://bsp.app/olgu-sinu-silm-siivas}
 
+{capo: 4}
 {c: Capo: IV}
 
 [*||:] [D] [Dsus2] [*:||]

@@ -3,6 +3,7 @@
 {music: Tom Francis}
 {song_url: https://bsp.app/paradise}
 
+{capo: 4}
 {c: Capo: IV}
 
 [C] [Em] [D/F#] [G]

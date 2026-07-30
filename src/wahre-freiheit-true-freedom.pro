@@ -3,6 +3,7 @@
 {music: Adrian Zendeh, Corinne Bahia, Riaz Khabirpour}
 {song_url: https://bsp.app/wahre-freiheit-true-freedom}
 
+{capo: 3}
 {c: Capo: III}
 
 W[A]ahre Freiheit besteht in der L[D]oslösung

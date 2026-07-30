@@ -3,6 +3,7 @@
 {music: Music Of The Bahá'í World Congress New York 1992}
 {song_url: https://bsp.app/look-at-me-follow-me}
 
+{capo: 4}
 {c: Capo: IV}
 
 [G] [C] [D] [G]

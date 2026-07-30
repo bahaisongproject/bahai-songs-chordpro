@@ -5,6 +5,7 @@
 
 {define: D9sus4/C base-fret 1 frets x 3 2 0 3 3}
 
+{capo: 3}
 {c: Capo III}
 
 ||: [G]O, Ti blagi Gosp[D9sus4/C]odine! :||

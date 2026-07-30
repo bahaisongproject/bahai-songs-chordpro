@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/many-a-chilled-heart}
 
+{capo: 5}
 {c: Capo: V}
 
 {sot}

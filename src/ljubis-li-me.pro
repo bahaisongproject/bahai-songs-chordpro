@@ -5,6 +5,7 @@
 
 {define: C6/9 base-fret 1 frets x 3 0 2 3 0}
 
+{capo: 2}
 {c: Capo: II}
 
 [G] [Cadd9]

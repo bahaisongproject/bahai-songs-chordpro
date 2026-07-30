@@ -3,6 +3,7 @@
 {music: Naim Zabihi, Negin Zabihi, Pascal Naim Schmidt}
 {song_url: https://bsp.app/the-gate-of-god}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: [Em]O thou who art the f[G]irst to believe in M[Am]e,

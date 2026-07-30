@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/my-god-my-adored-one}
 
+{capo: 1}
 {c: Capo: I}
 
 ||: My G[Am]od, my God, my Ad[Dm]ored One, m[E]y King, m[Am]y Desire! :||

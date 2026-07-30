@@ -8,6 +8,7 @@
 {define: Dm base-fret 5 frets x 0 2 2 1 0}
 
 {key: Cm}
+{capo: 3}
 {c: Capo: III}
 
 

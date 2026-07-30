@@ -7,6 +7,7 @@
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: Em7 base-fret 1 frets 0 2 2 0 3 3}
 
+{capo: 4}
 {c: Capo: IV}
 
 ||: I kn[Em7]ow not, O my God, what the F[Cadd9]ire is

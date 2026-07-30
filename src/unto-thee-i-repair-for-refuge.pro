@@ -8,6 +8,7 @@
 {define: Em7 base-fret 1 frets 0 2 2 0 3 3}
 {define: F#m#5addb9 base-fret 1 frets 2 0 0 2 3 3}
 
+{capo: 4}
 {c: Capo: IV}
 
 ||: Unto Th[G]ee I repair for r[Cadd9]efuge,

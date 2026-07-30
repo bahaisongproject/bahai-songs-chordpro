@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/die-besserung-der-welt}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: Die B[Em]esserung der W[C]elt kann durch r[G]eine und gute T[D]aten,

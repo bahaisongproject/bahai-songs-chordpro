@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/in-the-love}
 
+{capo: 4}
 {c: Capo IV}
 
 [G]

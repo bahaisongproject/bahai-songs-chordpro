@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/heute-ist-der-tag}
 
 {key: E}
+{capo: 2}
 {c:Capo: II}
 
  [D] [A] [Em]

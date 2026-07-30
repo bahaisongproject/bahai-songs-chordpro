@@ -5,6 +5,7 @@
 
 {define: Am7 base-fret 0 frets x 0 2 0 1 0}
 
+{capo: 4}
 {c: Capo: IV}
 
 ||: [Em7]Be thou as a flame of [Am7]fire to my [Em7]enemies

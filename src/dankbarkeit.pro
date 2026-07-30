@@ -3,6 +3,7 @@
 {music: Aria Behjat, Negin Zabihi}
 {song_url: https://bsp.app/dankbarkeit}
 
+{capo: 1}
 {c: Capo: I}
 
 ||: Sei [C]glücklich und zufrieden und [F]erhebe dich, Gott zu [C]danken, damit [F]Dankbar[G]keit die Gaben [C]mehre :||

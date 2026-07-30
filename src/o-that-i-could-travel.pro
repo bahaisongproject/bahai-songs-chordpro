@@ -5,6 +5,7 @@
 
 {define: Bm7 base-fret 1 frets x 2 0 2 0 2}
 
+{capo: 3}
 {c: Capo: III}
 
 [Bm]     O that I could tr[A]avel, [Em]even though on foot and [G]in the utmost

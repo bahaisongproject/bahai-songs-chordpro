@@ -3,6 +3,7 @@
 {music: Intoned by the ISGP year 2 course in Germany, 2014}
 {song_url: https://bsp.app/all-we-can}
 
+{capo: 1}
 {c: Capo: I}
 
 [C][G][Am][F]

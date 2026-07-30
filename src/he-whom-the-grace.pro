@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/he-whom-the-grace}
 
+{capo: 2}
 {c: Capo: II}
 
 H[Am]e whom the grace [Em]of Thy mercy aideth,

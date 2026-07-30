@@ -3,6 +3,7 @@
 {music: Medios para la Transformacion}
 {song_url: https://bsp.app/halcon-real}
 
+{capo: 3}
 {c: Capo III}
 
 {soc: 2x}

@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/bear-and-endure}
 
+{capo: 1}
 {c: Capo: I}
 
 Were it n[Am]ot for t[C]he cold,

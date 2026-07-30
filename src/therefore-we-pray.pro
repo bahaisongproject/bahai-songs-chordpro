@@ -3,6 +3,7 @@
 {music: Maya Asdaghi}
 {song_url: https://bsp.app/therefore-we-pray}
 
+{capo: 3}
 {c: Capo: III}
 
 [C][G][Am][C][G]

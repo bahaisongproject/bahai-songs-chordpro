@@ -3,6 +3,7 @@
 {music: Arian Ziaie, Navid Sabet}
 {song_url: https://bsp.app/be-unrestrained-as-the-wind}
 
+{capo: 3}
 {c: Capo: III}
 
 [Am]  ||: Be unrestrained as the w[C]ind

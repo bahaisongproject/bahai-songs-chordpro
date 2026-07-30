@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/dust-and-the-mountain}
 
 {key: C}
+{capo: 4}
 {c: Capo: IV}
 {define: D base-fret 3 frets 0 3 2 0 1 0}
 

@@ -3,6 +3,7 @@
 {music: Aria Behjat, Negin Zabihi}
 {song_url: https://bsp.app/reines-herz}
 
+{capo: 1}
 {c: Capo: I}
 
 

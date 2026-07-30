@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/whither-shall-i-turn}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: Wh[Am]ither shall I turn, whither sh[C]all I turn,

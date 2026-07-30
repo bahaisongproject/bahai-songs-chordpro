@@ -5,6 +5,7 @@
 
 {define: F base-fret 1 frets x x 3 2 1 x}
 
+{capo: 2}
 {c: Capo: II}
 
 [*||:] [Am] [G] [F] [G] [*:||]

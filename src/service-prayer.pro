@@ -3,6 +3,7 @@
 {music: Mica Smith, Nadine Reyhani}
 {song_url: https://bsp.app/service-prayer}
 
+{capo: 1}
 {c: Capo: I}
 
 Do Thou d[Am]estine for m[C]e, O My G[Em]o-o-o-[F]o-d,

@@ -12,4 +12,4 @@ Bem[C]ühungen und Bestr[F]ebungen
 dem W[G]ohl und der B[F]esserung der ganzen Menschheit g[C]elten :||
 
 G[Am]ott hilft denjenigen Seelen, 
-deren Absicht es ist, der Menschheit zu d[Esus4]ienen
+deren Absicht es ist, der Menschheit zu d[Esus4]ienen [E]

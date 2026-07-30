@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/was-ich-versprech}
 
+{capo: 3}
 {c:Capo: III}
 
 [C]Was ich [G]versprech, das halt ich [Em]ein, zu helfen [D]macht mich groß und fein.

@@ -5,6 +5,7 @@
 
 {define: Am/F# base-fret 1 frets 2 0 0 2 1 0}
 
+{capo: 4}
 {c: Capo: IV}
 
 [*||:] [Am] [Am/F#] [*:|| x3]

@@ -3,6 +3,7 @@
 {music: Tahirè Subi}
 {song_url: https://bsp.app/velato}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: V[G]elato n[C]el Mio essere [Am]immemorabil[D]e

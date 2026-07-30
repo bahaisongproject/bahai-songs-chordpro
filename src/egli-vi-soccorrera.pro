@@ -9,6 +9,7 @@
 {define: Csus2 base-fret 1 frets x 3 x 0 3 3}
 {define: Csus2$ base-fret 1 frets x 3 2 0 1 3}
 
+{capo: 1}
 {c: Capo: I}
 
 

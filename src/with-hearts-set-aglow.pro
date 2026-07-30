@@ -3,6 +3,7 @@
 {music: Intoned at the Newport youth initiative training 2015}
 {song_url: https://bsp.app/with-hearts-set-aglow}
 
+{capo: 3}
 {c: Capo: III}
 
 {soc}

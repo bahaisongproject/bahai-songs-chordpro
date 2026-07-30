@@ -3,6 +3,7 @@
 {music: Claudia Peralta, Naim Pilon}
 {song_url: https://bsp.app/als-een-lamp}
 
+{capo: 4}
 {c: Capo: IV }
 
 [*||:][Em][G][C][C][*:||]

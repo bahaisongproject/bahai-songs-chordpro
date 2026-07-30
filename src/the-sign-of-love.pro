@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/the-sign-of-love}
 
 {key: G}
+{capo: 2}
 {c: Capo: II}
 
 O Son of [Am]Man! For every[F]thing there is a [G]sign

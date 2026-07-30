@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/kodi-palinso-wina}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: K[Am]odi palinso wina, kodi palinso wina

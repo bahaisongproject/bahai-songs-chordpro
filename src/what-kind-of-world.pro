@@ -5,6 +5,7 @@
 
 {define: C/E base-fret 1 frets 0 2 2 0 1 0}
 {key: E}
+{capo: 4}
 {c: Capo: IV}
 {define: G/B base-fret 1 frets x x 3 2 1 3}
 

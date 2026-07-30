@@ -5,6 +5,7 @@
 
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
+{capo: 5}
 {c: Capo: V}
 
 {sot}

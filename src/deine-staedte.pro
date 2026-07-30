@@ -3,6 +3,7 @@
 {music: Sarah Liebler, Ting Xiu}
 {song_url: https://bsp.app/deine-staedte}
 
+{capo: 1}
 {c: Capo: I}
 
 ||: [D]Ich bitte D[Em]ich bei Deinem [C]  erhabensten Namen[G] :||

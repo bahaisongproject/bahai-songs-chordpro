@@ -3,6 +3,7 @@
 {music: Jonas Czimek, Ritika Ghose}
 {song_url: https://bsp.app/stvori-me-cista-srca}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: St[G]vori me čista srca, o, Bože moj, i 

@@ -3,6 +3,7 @@
 {music: Carmel Mahdi, Milad Mahdi}
 {song_url: https://bsp.app/these-holy-souls}
 
+{capo: 1}
 {c: Capo: I}
 
 [Dm]They are ablaze as a t[Am]emple of fire 

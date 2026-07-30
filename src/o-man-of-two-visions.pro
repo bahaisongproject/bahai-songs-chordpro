@@ -3,6 +3,7 @@
 {music: Farah Haji, Taiya Davidsen}
 {song_url: https://bsp.app/o-man-of-two-visions}
 
+{capo: 2}
 {c: Capo: II}
 
 [Cm7]    O Man [F]of Two Visions! Cl[Am]ose one [G]eye and [F]open the other

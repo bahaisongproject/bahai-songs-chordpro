@@ -3,6 +3,7 @@
 {music: Daryan Rahmatian, Nadine Foadi, Serene Koen}
 {song_url: https://bsp.app/the-condition-of-the-world}
 
+{capo: 2}
 {c: Capo: II}
 
 [Am] [F] [G]

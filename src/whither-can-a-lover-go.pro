@@ -3,6 +3,7 @@
 {music: Alexandra Mahally}
 {song_url: https://bsp.app/whither-can-a-lover-go}
 
+{capo: 2}
 {c: Capo: II}
 
 Wh[A]ither can a l[G]over go but to the l[D]and of his bel[A]oved?

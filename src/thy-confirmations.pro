@@ -8,6 +8,7 @@
 {define: G/B base-fret 1 frets x x 3 2 1 3}
 {define: Dmaj11 base-fret 2 frets 0 4 3 0 1 0}
 
+{capo: 5}
 {c: Capo: V}
 
 [Em] [D/F#] [G] [C/G]

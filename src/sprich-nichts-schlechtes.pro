@@ -3,8 +3,8 @@
 {music: Armin Golar, Nuri Modabber, Samuel Roushanai, Shayan Modabber}
 {song_url: https://bsp.app/sprich-nichts-schlechtes}
 
-{c: Capo: 0 / V}
-
+{capo: 5}
+{c: Capo: V}
 
 ||: [Am]Sprich (Sprich), Sprich [C]nichts (Sprich nichts), Sprich nichts [G]Schlechtes, auf [D]dass (clap, clap):||
 

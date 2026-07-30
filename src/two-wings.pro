@@ -5,6 +5,7 @@
 
 {define: G6sus base-fret 1 frets 3 3 2 0 1 0}
 
+{capo: 2}
 {c: Capo: II}
 
 [*||:] [F] [C] [G] [Am] [*:||]

@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/at-all-times-energetic}
 
 
+{capo: 2}
 {c: Capo: II}
 
 [C]At all t[Am]imes do I sp[F]eak of you and c[C]all you to mind.

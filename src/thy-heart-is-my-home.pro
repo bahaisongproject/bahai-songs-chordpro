@@ -3,6 +3,7 @@
 {music: Alexander Riedesser, Kian Panahi}
 {song_url: https://bsp.app/thy-heart-is-my-home}
 
+{capo: 1}
 {c: Capo: I}
 
 [E] [C#m] [F#] [A] [B] [E]

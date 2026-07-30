@@ -7,6 +7,7 @@
 {define: chord2 base-fret 4 frets x 4 0 x 2 x}
 {define: chord3 base-fret 3 frets x 3 0 x 1 x}
 
+{capo: 2}
 {c: Capo: II}
 
 [*||:] [Cm7][Am7][C][Cm7][Am7][G] [*:||]

@@ -3,6 +3,7 @@
 {music: Intoned by a group of friends at the Bahá'í World Centre}
 {song_url: https://bsp.app/love-is-the-light-2}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: Love is the l[G]ight that guideth in d[D]arkness, the living l[C]ink that

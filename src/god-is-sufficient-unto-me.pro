@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/god-is-sufficient-unto-me}
 
+{capo: 3}
 {c: Capo: III}
 
 [Em]God is suff[B]icient unto [Em]me; [C]He is the [B]All-suff[Em]icing!

@@ -3,6 +3,7 @@
 {music: Anis Mirra}
 {song_url: https://bsp.app/rejoice}
 
+{capo: 3}
 {c: Capo: III}
 
 Rej[G]oice in the gladness [Gmaj7]of thine h[Em7]eart,

@@ -3,6 +3,7 @@
 {music: Shadi Toloui-Wallace}
 {song_url: https://bsp.app/this-is-faith}
 
+{capo: 3}
 {c: Capo: III}
 
 To w[G]alk where th[D]ere is no p[C]ath

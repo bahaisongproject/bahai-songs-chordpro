@@ -3,6 +3,7 @@
 {music: Intoned at an institute camp in Munich, Germany}
 {song_url: https://bsp.app/mache-mein-gebet}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: M[G]ache mein Gebet zu [Am7]einem Feuer,

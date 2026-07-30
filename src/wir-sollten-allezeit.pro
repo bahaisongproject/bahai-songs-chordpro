@@ -3,6 +3,7 @@
 {music: }
 {song_url: https://bsp.app/wir-sollten-allezeit}
 
+{capo: 3}
 {c: Capo: III}
 
 {key: G}

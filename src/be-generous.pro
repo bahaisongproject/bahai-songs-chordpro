@@ -8,6 +8,7 @@
 {define: C# base-fret 4 frets x 1 3 3 3 1}
 
 {transpose: -4}
+{capo: 4}
 {c: Capo: IV}
 
 [*||:] [B] [G#m] [D#m] [C#] [*:|| x4]

@@ -3,6 +3,7 @@
 {music: FairGardens}
 {song_url: https://bsp.app/at-all-times}
 
+{capo: 4}
 {c: Capo: IV}
 
 [G]At all t[Cadd9]imes do I sp[G]eak of y[Cadd9]ou and c[G]all you to m[Cadd9]ind.

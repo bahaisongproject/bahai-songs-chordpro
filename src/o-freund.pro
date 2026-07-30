@@ -3,6 +3,7 @@
 {music: Nima Neubrand}
 {song_url: https://bsp.app/o-freund}
 
+{capo: 3}
 {c: Capo: III}
 
 

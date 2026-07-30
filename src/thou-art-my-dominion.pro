@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/thou-art-my-dominion}
 
+{capo: 5}
 {c: Capo: V}
 
 ||: O Son Of M[Am]an! Thou Art My dom[F]inion

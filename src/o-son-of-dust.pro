@@ -3,6 +3,7 @@
 {music: Justus Bos, Miad Javaheri, Naim Pilon}
 {song_url: https://bsp.app/o-son-of-dust}
 
+{capo: 4}
 {c: Capo: IV}
 
 [G] [C] [G] [Em] [G]

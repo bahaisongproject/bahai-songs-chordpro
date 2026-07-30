@@ -10,6 +10,7 @@
 {define: A9sus base-fret 1 frets x 0 0 0 0 x}
 {define: Baug base-fret 1 frets x 2 1 0 0 x}
 
+{capo: 4}
 {c: Capo: IV}
 
 [*||:] [Em] [Bm/D] [Cmaj7] [G] [*:||]

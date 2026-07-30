@@ -3,6 +3,7 @@
 {music: Anis Mirra}
 {song_url: https://bsp.app/gioisci}
 
+{capo: 1}
 {c: Capo: I}
 
 Gio[G]isci nella letizia d[Gmaj7]el tuo cu[Em7]ore

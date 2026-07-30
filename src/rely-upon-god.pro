@@ -3,6 +3,7 @@
 {music: Sabria, Efe, Rafael & Maarten}
 {song_url: https://bsp.app/rely-upon-god}
 
+{capo: 4}
 {c: Capo IV}
 
 {soc}

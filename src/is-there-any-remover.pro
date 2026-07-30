@@ -5,6 +5,7 @@
 
 {define: Bm7 base-fret 0 frets x 2 0 2 0 2}
 
+{capo: 2}
 {c: Capo: II}
 
 {sot}

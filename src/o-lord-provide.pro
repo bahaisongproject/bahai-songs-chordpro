@@ -3,6 +3,7 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/o-lord-provide}
 
+{capo: 4}
 {c: Capo: IV}
 
 {sot}

@@ -3,6 +3,7 @@
 {music: Felix Witzenbichler, Johanna Müller, Negin Zabihi, Nikola Kristan}
 {song_url: https://bsp.app/eine-freundliche-zunge}
 
+{capo: 2}
 {c: Capo: II}
 
 

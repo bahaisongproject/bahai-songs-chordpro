@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/wir-sind-tropfen}
 
 {key: D}
+{capo: 2}
 {c:Capo: II}
 
 

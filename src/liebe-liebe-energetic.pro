@@ -3,6 +3,7 @@
 {music: Creadell Haley}
 {song_url: https://bsp.app/liebe-liebe-energetic}
 
+{capo: 2}
 {c: Capo: II}
 
 

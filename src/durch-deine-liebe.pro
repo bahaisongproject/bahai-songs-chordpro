@@ -5,6 +5,7 @@
 
 {define: G/F# base-fret 1 frets 2 2 0 0 0 1}
 
+{capo: 4}
 {c: Capo: IV}
 
 [G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott!

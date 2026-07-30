@@ -3,7 +3,8 @@
 {music: Nabil Mangenda, Nuri Modabber}
 {song_url: https://bsp.app/wahrhaftigkeit-ist}
 
-{c: Capo: III}
+{capo: 2}
+{c: Capo: II}
 
 ||: Wahr[Am]haftigkeit ist (Wahrhaftigkeit ist)
 Die [Dm]Grundlage aller (die Grundlage aller)

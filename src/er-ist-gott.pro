@@ -3,6 +3,7 @@
 {music: Aria Behjat, Negin Zabihi}
 {song_url: https://bsp.app/er-ist-gott}
 
+{capo: 2}
 {c: Capo: II}
 
 Er ist [C]Gott, (Er ist Gott), O Gott, mein Gott, (O Gott, mein Gott)

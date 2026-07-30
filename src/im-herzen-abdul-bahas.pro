@@ -3,6 +3,7 @@
 {music: Intoned at an institute camp in Germany}
 {song_url: https://bsp.app/im-herzen-abdul-bahas}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: [Am]Ihr wohnt [F]allesamt im    H[C]erzen ‘Abd[E]u‘l-Bahás :||

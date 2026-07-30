@@ -3,6 +3,7 @@
 {music: Intoned at an institute camp in Germany}
 {song_url: https://bsp.app/gesegnet-ist-er}
 
+{capo: 2}
 {c: Capo II}
 
 ||: Ges[Am]egnet ist [C]er, der sich [G]in der Blüte seiner J[D]ugend :||

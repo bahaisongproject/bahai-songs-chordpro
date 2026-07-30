@@ -7,6 +7,7 @@
 {define: G6 base-fret 1 frets 3 0 2 0 3 3}
 {define: C/B base-fret 1 frets x 2 0 0 1 0}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: Str[C]ive ye with [Fmaj7]all your h[C]earts  [Fmaj7][C]

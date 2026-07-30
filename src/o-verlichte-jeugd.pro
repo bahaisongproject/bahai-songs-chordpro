@@ -3,6 +3,7 @@
 {music: Naim Pilon}
 {song_url: https://bsp.app/o-verlichte-jeugd}
 
+{capo: 3}
 {c: Capo: III}
 
 [Dm]      O Verl[Am]ichte jeugd sp[G]an je dag en n[C]acht [G]

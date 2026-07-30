@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/sei-freigebig-im-glueck}
 
 {key: E}
+{capo: 3}
 {c: Capo: III}
 
 Sei [Am]freigebig im [F]Glück und dank[C]bar im Un[G]glück

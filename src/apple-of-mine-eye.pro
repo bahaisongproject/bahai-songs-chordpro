@@ -3,6 +3,7 @@
 {music: James Mohajer, Kyan}
 {song_url: https://bsp.app/apple-of-mine-eye}
 
+{capo: 1}
 {c: Capo: I}
 
 [G] [D] [Em]

@@ -3,6 +3,7 @@
 {music: Alexander Riedesser, Catharina Klietz}
 {song_url: https://bsp.app/dies-ist-der-tag}
 
+{capo: 2}
 {c: Capo: II}
 
 ||: [C]Dies ist der [F]Tag, [Dm]an dem ge[G]sprochen werden [C]muss. :||

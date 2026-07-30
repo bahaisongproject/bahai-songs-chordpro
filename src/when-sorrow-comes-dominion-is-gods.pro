@@ -3,6 +3,7 @@
 {music: Shadi Toloui-Wallace}
 {song_url: https://bsp.app/when-sorrow-comes-dominion-is-gods}
 
+{capo: 4}
 {c: Capo: IV}
 
 ||: Dom[Am]inion is God‘s, the L[F]ord of the seen and the [Em]unseen,

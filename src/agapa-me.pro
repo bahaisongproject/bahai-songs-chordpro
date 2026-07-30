@@ -3,6 +3,7 @@
 {music: Anis Mirra}
 {song_url: https://bsp.app/agapa-me}
 
+{capo: 1}
 {c: Capo: I}
 
 [Em][Cadd9][G][D]

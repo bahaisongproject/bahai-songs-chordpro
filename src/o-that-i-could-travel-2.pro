@@ -3,6 +3,7 @@
 {music: James Mohajer}
 {song_url: https://bsp.app/o-that-i-could-travel-2}
 
+{capo: 3}
 {c: Capo: III}
 
 [G]O that I could tr[Cadd9]avel, [Dsus4]even though on f[G]oot

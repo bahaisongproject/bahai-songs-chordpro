@@ -5,6 +5,7 @@
 
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}
 
+{capo: 3}
 {c: Capo: III}
 
 ||: [G]O Sohn des M[Dsus4]enschen! Fr[Cadd9]ohlocke vor H[Dsus4]erzensfreude :||

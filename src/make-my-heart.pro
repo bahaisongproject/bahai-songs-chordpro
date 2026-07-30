@@ -3,6 +3,7 @@
 {music: 2022 Worldwide Conferences, Queensland}
 {song_url: https://bsp.app/make-my-heart}
 
+{capo: 4}
 {c:Capo IV}
 
 Make my [Am]heart over[C]flow
