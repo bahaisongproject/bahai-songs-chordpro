@@ -1,6 +1,6 @@
 {title: Kodi Palinso Wina}
 {words: The Báb}
-{music: }
+{music: Tiyamike Mkanthama}
 {song_url: https://bsp.app/kodi-palinso-wina}
 
 {capo: 2}

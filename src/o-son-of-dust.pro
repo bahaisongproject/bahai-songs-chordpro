@@ -28,7 +28,8 @@ M[Em]y et[C]ernal w[G]ealth.
 [Em]   O Son of Dust! [C]  Blind thine eyes, that [G]is,
 [Em]   to all save My [C] beauty; stop thine[G] ears
 [Am]   to all save My [Em] word, save my [G] word
-[C]empty thyself of all l[G]earning save the kn[C]owledge of M[G]e; that w[C]ith a clear v[G]ision, a pure h[C]eart and an [G]attentive ear
+[C]empty thyself of all l[G]earning save the kn[C]owledge of M[G]e;
+that w[C]ith a clear v[G]ision, a pure h[C]eart and an [G]attentive ear
 thou m[Am]ayest enter the [Em]court
 [Em]of My [C] holin[G]ess.
 [Em] O Son of Dust, [C] O Son of D[G]ust
