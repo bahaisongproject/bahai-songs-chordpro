@@ -7,11 +7,8 @@
 {c: Capo: I}
 
 
-[Am] [F]
-||: Dies ist mein erster Rat
-[C] [G]
-Besitze ein reines, ein reines Herz :||
-[Am] [F]
-||: Besitze ein reines (reines), gütiges (gütiges) und
-[G] [Am]
-strahlendes (klatsch, klatsch), ein strahlendes Herz :||
+ 
+||: [Am]Dies ist mein erster [F]Rat
+Besitze ein [C]reines, ein reines [G]Herz :||
+||: Besitze ein [Am]reines (reines), [F]gütiges (gütiges) und
+[G]strahlendes (klatsch, klatsch), ein strahlendes [Am]Herz :||

@@ -11,13 +11,14 @@
 {c:6/8}
 {c:Basic Chord Progression}
 
-{start_of_grid}
+
+{start_of_grid shape="4x3"}
 |: F . . | G . . | Am . . | Am . . :|
 {end_of_grid}
 
 {c:Optional Chord Progression}
 
-{start_of_grid}
+{start_of_grid shape="4x3"}
 |: Fmaj7 . . | G6 . . | Am(V1) . . | Am(V2) . . :|
 {end_of_grid}
 
@@ -35,7 +36,7 @@ before Our F[Am]ace. [Am]
 
 {c:Key Change}
 
-{start_of_grid}
+{start_of_grid shape="4x3"}
 | F . . | G . . | Am . . | Bm . . |
 {end_of_grid}
 
@@ -52,8 +53,8 @@ before Our F[Bm]ace. [Bm]
 
 {c:Outro}
 
-{start_of_grid}
+{start_of_grid shape="3x3"}
 | G . . | Asus2 . . | Am . . |
-| F . . | G . . | G . . | G . . |
-| Am . . |
+| F . . | G . . | G . . |
+| G . . | Am . . | . . . |
 {end_of_grid}
