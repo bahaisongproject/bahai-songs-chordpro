@@ -1,6 +1,6 @@
 {title: Dankbarkeit}
 {words: }
-{music: Aria Behjat, Negin Zabihi}
+{music: Negin Zabihi}
 {song_url: https://bsp.app/dankbarkeit}
 
 {capo: 1}

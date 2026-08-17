@@ -3,21 +3,17 @@
 {music: Bahá'í-Gemeinde Halle}
 {song_url: https://bsp.app/o-du-guetiger-herr}
 
-{key: C}
+{key: D}
 {tempo: 120}
 {time: 4/4}
 
-[C]O du gütiger Herr!
-[C]O du gütiger Herr!
-Ver[F]einige [G]alle,
-[C]vereinige alle.
+[D]O du [D]gütiger Herr! [D]O du [D]gütiger Herr!
+Ver[G]einig[A]e [D]alle [D]
 
-[C]O du gütiger Herr!
-[C]O du gütiger Herr!
-Ver[F]einige [G]alle,
-[C]vereinige alle.
+[D]O du [D]gütiger Herr! [D]O du [D]gütiger Herr!
+Ver[G]einig[A]e [D]alle [D]
 
-Ver[C]einige die [F]Völker
-wie [G]eine Familie,
-die [C]ganze Erde [F]eine [G]Heimat,
-die [F]ganze Erde [G]nur ein [C]Land.
+Ver[D]einig[G]e die V[A]ölker [A]
+w[D]ie [G]eine Fam[A]ilie, [A]
+die g[G]anze [A]Erde eine H[D]eimat, [Bm]
+die g[G]anze [A]Erde nur ein [D]Land. [D]

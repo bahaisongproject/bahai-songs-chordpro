@@ -1,6 +1,6 @@
 {title: Er ist Gott}
 {words: }
-{music: Aria Behjat, Negin Zabihi}
+{music: Negin Zabihi}
 {song_url: https://bsp.app/er-ist-gott}
 
 {capo: 2}
