@@ -1,5 +1,5 @@
 {title: Betrachte}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/betrachte}
 

@@ -1,5 +1,5 @@
 {title: Strive Ye}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/strive-ye}
 

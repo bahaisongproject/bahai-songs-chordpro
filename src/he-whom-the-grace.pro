@@ -1,5 +1,5 @@
 {title: He Whom The Grace}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/he-whom-the-grace}
 

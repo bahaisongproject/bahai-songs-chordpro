@@ -1,5 +1,5 @@
 {title: No One But Thee}
-{words: The Báb}
+{words: }
 {music: Calla Kinglit}
 {song_url: https://bsp.app/no-one-but-thee}
 

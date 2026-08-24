@@ -1,5 +1,5 @@
 {title: Kas Te Ei Tea (Know Ye Not)}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/kas-te-ei-tea-know-ye-not}
 

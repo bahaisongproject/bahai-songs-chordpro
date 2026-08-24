@@ -1,5 +1,5 @@
 {title: Dame un Corazón}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Alicia Perdú}
 {song_url: https://bsp.app/dame-un-corazon}
 

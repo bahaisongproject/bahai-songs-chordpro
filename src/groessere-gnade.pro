@@ -1,6 +1,6 @@
 {title: Größere Gnade}
-{words: ‘Abdu’l-Bahá}
-{music: Alexander Riedesser, Kian Panahi}
+{words: }
+{music: Alexander Riedesser & Kian Panahi}
 {song_url: https://bsp.app/groessere-gnade}
 
 {capo: 3}

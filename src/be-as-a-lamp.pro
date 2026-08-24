@@ -1,5 +1,5 @@
 {title: Be as a Lamp}
-{words: Bahá’u’lláh}
+{words: }
 {music: Mark Barry}
 {song_url: https://bsp.app/be-as-a-lamp}
 

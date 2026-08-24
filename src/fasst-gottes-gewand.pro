@@ -1,6 +1,6 @@
 {title: Fasst Gottes Gewand}
-{words: Bahá’u’lláh}
-{music: Intoned at an institute camp in Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/fasst-gottes-gewand}
 
 {c: 2x:}

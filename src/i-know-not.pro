@@ -1,5 +1,5 @@
 {title: I Know Not}
-{words: Bahá’u’lláh}
+{words: }
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/i-know-not}
 

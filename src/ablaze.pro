@@ -1,5 +1,5 @@
 {title: Ablaze}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Tamara Duncan}
 {song_url: https://bsp.app/ablaze}
 

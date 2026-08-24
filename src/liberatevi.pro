@@ -1,5 +1,5 @@
 {title: Liberatevi}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Anis Mirra}
 {song_url: https://bsp.app/liberatevi}
 

@@ -1,5 +1,5 @@
 {title: Agapa Me}
-{words: Bahá’u’lláh}
+{words: }
 {music: Anis Mirra}
 {song_url: https://bsp.app/agapa-me}
 

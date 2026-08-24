@@ -1,5 +1,5 @@
 {title: Verily I Say}
-{words: Bahá’u’lláh}
+{words: }
 {music: Maryam Hadji}
 {song_url: https://bsp.app/verily-i-say}
 

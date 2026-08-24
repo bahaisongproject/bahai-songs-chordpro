@@ -1,5 +1,5 @@
 {title: Iseluleko Sami}
-{words: Bahá’u’lláh}
+{words: }
 {music: Young Mbazo & Friends}
 {song_url: https://bsp.app/iseluleko-sami}
 

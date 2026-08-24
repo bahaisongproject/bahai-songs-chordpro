@@ -1,6 +1,6 @@
 {title: Mirages}
-{words: Bahá’u’lláh}
-{music: Intoned by the Le Deun family}
+{words: }
+{music: }
 {song_url: https://bsp.app/mirages}
 
 ||: En vérit[G]é, je vous l[F#]e dis, ce m[Bm]onde est semblable,

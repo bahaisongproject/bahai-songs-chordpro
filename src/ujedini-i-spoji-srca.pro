@@ -1,6 +1,6 @@
 {title: Ujedini i spoji srca}
-{words: ‘Abdu’l-Bahá}
-{music: Ali Youssefi}
+{words: }
+{music: }
 {song_url: https://bsp.app/ujedini-i-spoji-srca}
 
 ||: Ujed[C]ini i sp[G]oji s[Am]rca zaj[F]edno :||

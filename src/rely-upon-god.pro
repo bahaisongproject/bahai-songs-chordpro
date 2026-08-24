@@ -1,6 +1,6 @@
 {title: Rely Upon God}
-{words: ‘Abdu’l-Bahá}
-{music: Sabria, Efe, Rafael & Maarten}
+{words: }
+{music: }
 {song_url: https://bsp.app/rely-upon-god}
 
 {capo: 4}

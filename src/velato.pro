@@ -1,5 +1,5 @@
 {title: Velato}
-{words: Bahá’u’lláh}
+{words: }
 {music: Tahirè Subi}
 {song_url: https://bsp.app/velato}
 

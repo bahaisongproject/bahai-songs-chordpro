@@ -1,5 +1,5 @@
 {title: O Gud Led Mig}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Emilia Ahrari}
 {song_url: https://bsp.app/o-gud-led-mig}
 

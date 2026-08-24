@@ -1,5 +1,5 @@
 {title: Bendito es el Sitio}
-{words: Bahá’u’lláh}
+{words: }
 {music: Elizabeth Hahn}
 {song_url: https://bsp.app/bendito-es-el-sitio}
 

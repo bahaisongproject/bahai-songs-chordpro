@@ -1,6 +1,6 @@
 {title: Der Meistgeliebte}
-{words: Bahá’u’lláh}
-{music: Corinne Bahia, Levin Zendeh}
+{words: }
+{music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/der-meistgeliebte}
 
 {define: Bb base-fret 6 frets 1 3 3 2 1 1 fingers 1 3 4 2 1 1 }

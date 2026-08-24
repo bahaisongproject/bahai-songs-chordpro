@@ -1,6 +1,6 @@
 {title: He Maketh Victorious}
-{words: The Báb}
-{music: The Badasht Project}
+{words: }
+{music: }
 {song_url: https://bsp.app/he-maketh-victorious}
 
 {define: B5 base-fret 1 frets X 2 4 4 0 X}

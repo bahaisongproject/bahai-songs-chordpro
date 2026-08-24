@@ -1,6 +1,6 @@
 {title: Faith Is The Magnet}
-{words: ‘Abdu’l-Bahá}
-{music: Adrian Zendeh, Jonas Bruckmann, Marina Bruckmann, Rahá Poostchi}
+{words: }
+{music: Jonas Bruckmann, Marina Bruckmann & Rahá Poostchi}
 {song_url: https://bsp.app/faith-is-the-magnet}
 
 {capo: 5}

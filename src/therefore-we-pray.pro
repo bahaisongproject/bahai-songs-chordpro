@@ -1,5 +1,5 @@
 {title: Therefore We Pray}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Maya Asdaghi}
 {song_url: https://bsp.app/therefore-we-pray}
 

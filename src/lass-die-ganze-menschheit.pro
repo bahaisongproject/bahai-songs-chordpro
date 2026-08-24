@@ -1,6 +1,6 @@
 {title: Lass die Ganze Menschheit}
-{words: ‘Abdu’l-Bahá}
-{music: Corinne Bahia, Levin Zendeh}
+{words: }
+{music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/lass-die-ganze-menschheit}
 
 ||: L[F]ass die ganze Menschheit (clap clap) zu St[C]ernen w[Bb]erden

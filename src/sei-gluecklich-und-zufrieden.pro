@@ -1,5 +1,5 @@
 {title: Sei Glücklich und Zufrieden}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Chad Smith}
 {song_url: https://bsp.app/sei-gluecklich-und-zufrieden}
 

@@ -1,5 +1,5 @@
 {title: O Ihr Geliebten des Herrn}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Gloria G.}
 {song_url: https://bsp.app/o-ihr-geliebten-des-herrn}
 

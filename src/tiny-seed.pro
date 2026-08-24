@@ -1,5 +1,5 @@
 {title: Tiny Seed}
-{words: Bahá’u’lláh}
+{words: }
 {music: Dawnbreaker Collective}
 {song_url: https://bsp.app/tiny-seed}
 

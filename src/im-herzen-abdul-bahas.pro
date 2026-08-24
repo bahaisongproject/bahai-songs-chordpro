@@ -1,6 +1,6 @@
 {title: Im Herzen 'Abdu’l-Bahás}
-{words: ‘Abdu’l-Bahá}
-{music: Intoned at an institute camp in Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/im-herzen-abdul-bahas}
 
 {capo: 2}

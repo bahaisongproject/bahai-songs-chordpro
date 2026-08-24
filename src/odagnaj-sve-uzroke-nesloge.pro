@@ -1,6 +1,6 @@
 {title: Odagnaj sve uzroke nesloge}
-{words: ‘Abdu’l-Bahá}
-{music: Corinne Bahia}
+{words: }
+{music: }
 {song_url: https://bsp.app/odagnaj-sve-uzroke-nesloge}
 
 ||: O, Bo[D]že! Odagnaj sve uzroke n[F]esloge i pripr[G]avi za sve nas ono što n[Em]osi jedinstvo i sl[A]ogu!

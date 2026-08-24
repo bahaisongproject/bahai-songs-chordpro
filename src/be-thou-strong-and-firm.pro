@@ -1,5 +1,5 @@
 {title: Be Thou Strong and Firm}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Tim Freeman}
 {song_url: https://bsp.app/be-thou-strong-and-firm}
 

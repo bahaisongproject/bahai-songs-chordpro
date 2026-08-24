@@ -1,5 +1,5 @@
 {title: At All Times}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: FairGardens}
 {song_url: https://bsp.app/at-all-times}
 

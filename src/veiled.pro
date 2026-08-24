@@ -1,5 +1,5 @@
 {title: Veiled}
-{words: Bahá’u’lláh}
+{words: }
 {music: Ann-Sofie Wensbo}
 {song_url: https://bsp.app/veiled}
 

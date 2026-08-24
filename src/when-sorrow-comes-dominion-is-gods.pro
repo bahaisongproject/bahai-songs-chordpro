@@ -1,5 +1,5 @@
 {title: When Sorrow Comes (Dominion Is God's)}
-{words: Bahá’u’lláh}
+{words: }
 {music: Shadi Toloui-Wallace}
 {song_url: https://bsp.app/when-sorrow-comes-dominion-is-gods}
 

@@ -1,5 +1,5 @@
 {title: This Is Faith}
-{words: Amatu’l-Bahá Ruhiyyih Khanum}
+{words: }
 {music: Shadi Toloui-Wallace}
 {song_url: https://bsp.app/this-is-faith}
 

@@ -1,6 +1,6 @@
 {title: Werde Blind}
 {words: }
-{music: Anisa Enayati, Kian Panahi, Naim Enayati, Negin Zabihi, Nuri Modabber}
+{music: Anisa Enayati, Kian Panahi, Naim Enayati, Negin Zabihi & Nuri Modabber}
 {song_url: https://bsp.app/werde-blind}
 
 {define: Am base-fret 5 frets 0 2 2 0 0 0}

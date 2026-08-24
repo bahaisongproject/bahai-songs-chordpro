@@ -1,5 +1,5 @@
 {title: Soon Will All That Dwell on Earth}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/soon-will-all-that-dwell-on-earth}
 

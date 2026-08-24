@@ -1,5 +1,5 @@
 {title: O God Guide Me}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-god-guide-me-3}
 

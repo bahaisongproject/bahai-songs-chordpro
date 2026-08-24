@@ -1,5 +1,5 @@
 {title: Corrobora}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Neda Parsa}
 {song_url: https://bsp.app/corrobora}
 

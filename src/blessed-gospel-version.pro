@@ -1,6 +1,6 @@
 {title: Blessed is the Spot}
-{words: Bahá’u’lláh}
-{music: Elizabeth Hahn, Lua Crofts Faragher}
+{words: }
+{music: Elizabeth Hahn}
 {song_url: https://bsp.app/blessed-gospel-version}
 
 {key:G}

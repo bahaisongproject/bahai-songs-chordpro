@@ -1,6 +1,6 @@
 {title: Rejoice}
-{words: Bahá’u’lláh}
-{music: Anis Mirra}
+{words: }
+{music: }
 {song_url: https://bsp.app/rejoice}
 
 {capo: 3}

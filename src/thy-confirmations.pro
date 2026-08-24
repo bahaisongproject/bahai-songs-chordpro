@@ -1,6 +1,6 @@
 {title: Thy Confirmations}
-{words: ‘Abdu’l-Bahá}
-{music: Music Inspired by the Heroes Teaching Conference}
+{words: }
+{music: }
 {song_url: https://bsp.app/thy-confirmations}
 
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}

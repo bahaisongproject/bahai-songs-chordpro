@@ -1,6 +1,6 @@
 {title: Stvori me čista srca}
-{words: Bahá’u’lláh}
-{music: Jonas Czimek, Ritika Ghose}
+{words: }
+{music: Jonas Czimek & Ritika Ghose}
 {song_url: https://bsp.app/stvori-me-cista-srca}
 
 {capo: 3}

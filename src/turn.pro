@@ -1,5 +1,5 @@
 {title: Turn}
-{words: Bahá’u’lláh}
+{words: }
 {music: Tom Francis}
 {song_url: https://bsp.app/turn}
 

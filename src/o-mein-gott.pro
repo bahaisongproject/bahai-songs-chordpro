@@ -1,6 +1,6 @@
 {title: O mein Gott}
 {words: }
-{music: Nuri Modabber, Sarah Liebler}
+{music: Nuri Modabber & Sarah Liebler}
 {song_url: https://bsp.app/o-mein-gott}
 
 {capo: 3}

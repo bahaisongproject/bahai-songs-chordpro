@@ -1,5 +1,5 @@
 {title: In the Garden of Thy Heart}
-{words: Bahá’u’lláh}
+{words: }
 {music: Baktash Khozoee}
 {song_url: https://bsp.app/in-the-garden-of-thy-heart}
 

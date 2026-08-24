@@ -1,6 +1,6 @@
 {title: Sprich nichts Schlechtes}
 {words: }
-{music: Armin Golar, Nuri Modabber, Samuel Roushanai, Shayan Modabber}
+{music: Armin Golar, Nuri Modabber, Samuel Roushanai & Shayan Modabber}
 {song_url: https://bsp.app/sprich-nichts-schlechtes}
 
 {capo: 5}

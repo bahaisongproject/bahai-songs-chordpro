@@ -1,5 +1,5 @@
 {title: Gott Hilft Denjenigen Seelen}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Franziska Feuerstein-Antara}
 {song_url: https://bsp.app/gott-hilft-denjenigen-seelen}
 

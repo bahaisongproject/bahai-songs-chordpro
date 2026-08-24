@@ -1,6 +1,6 @@
 {title: Everlasting}
-{words: Bahá’u’lláh}
-{music: Dani Lutley, Mey Spiegel}
+{words: }
+{music: Dani Lutley & Mey Spiegel}
 {song_url: https://bsp.app/everlasting}
 
 {define: Am7 base-fret 0 frets x 0 2 0 1 0}

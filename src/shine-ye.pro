@@ -1,6 +1,6 @@
 {title: Shine Ye}
-{words: ‘Abdu’l-Bahá}
-{music: Devina Saberi, Raneesha Saberi}
+{words: }
+{music: Devina Saberi & Raneesha Saberi}
 {song_url: https://bsp.app/shine-ye}
 
 {define: Em base-fret 4 frets x 4 2 0 0 x}

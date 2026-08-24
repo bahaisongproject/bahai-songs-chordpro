@@ -1,5 +1,5 @@
 {title: Immensity of Space}
-{words: Bahá’u’lláh}
+{words: }
 {music: Rowshan}
 {song_url: https://bsp.app/immensity-of-space}
 

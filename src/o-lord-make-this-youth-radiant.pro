@@ -1,6 +1,6 @@
 {title: O Lord Make This Youth Radiant}
-{words: ‘Abdu’l-Bahá}
-{music: Youth of Guam}
+{words: }
+{music: }
 {song_url: https://bsp.app/o-lord-make-this-youth-radiant}
 
 {capo: 3}

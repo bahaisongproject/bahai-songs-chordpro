@@ -1,6 +1,6 @@
 {title: Do Not Despair}
-{words: ‘Abdu’l-Bahá}
-{music: Emilia Ahrari, Lua Nazerian}
+{words: }
+{music: Emilia Ahrari & Lua Nazerian}
 {song_url: https://bsp.app/do-not-despair}
 
 {capo: 3}

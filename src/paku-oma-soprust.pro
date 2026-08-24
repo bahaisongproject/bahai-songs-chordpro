@@ -1,6 +1,6 @@
 {title: Paku Oma Sõprust}
-{words: ‘Abdu’l-Bahá}
-{music: Elisabeth Ots}
+{words: }
+{music: }
 {song_url: https://bsp.app/paku-oma-soprust}
 
 {capo: 4}

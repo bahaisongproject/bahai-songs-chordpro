@@ -1,5 +1,5 @@
 {title: Olgu Sinu Silm Siivas}
-{words: Bahá’u’lláh}
+{words: }
 {music: Birgid Täht}
 {song_url: https://bsp.app/olgu-sinu-silm-siivas}
 

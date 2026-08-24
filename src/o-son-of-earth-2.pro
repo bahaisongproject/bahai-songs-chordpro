@@ -1,5 +1,5 @@
 {title: O Son of Earth}
-{words: Bahá’u’lláh}
+{words: }
 {music: Grant Hindin Miller}
 {song_url: https://bsp.app/o-son-of-earth-2}
 

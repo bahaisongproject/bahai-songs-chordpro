@@ -1,6 +1,6 @@
 {title: Die Erde ist nur ein Land}
-{words: Bahá’u’lláh}
-{music: Corinne Bahia, Levin Zendeh}
+{words: }
+{music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/die-erde-ist-nur-ein-land}
 
 ||: Die [G]Erde ist nur ein Land

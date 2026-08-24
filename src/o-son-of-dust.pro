@@ -1,6 +1,6 @@
 {title: O Son of Dust}
-{words: Bahá’u’lláh}
-{music: Justus Bos, Miad Javaheri, Naim Pilon}
+{words: }
+{music: Justus Bos, Miad Javaheri & Naim Pilon}
 {song_url: https://bsp.app/o-son-of-dust}
 
 {capo: 4}

@@ -1,5 +1,5 @@
 {title: Erstickt die Flammen des Krieges}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/erstickt-die-flammen-des-krieges}
 

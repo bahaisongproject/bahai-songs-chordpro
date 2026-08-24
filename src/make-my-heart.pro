@@ -1,6 +1,6 @@
 {title: Make My Heart}
-{words: ‘Abdu’l-Bahá}
-{music: 2022 Worldwide Conferences, Queensland}
+{words: }
+{music: }
 {song_url: https://bsp.app/make-my-heart}
 
 {capo: 4}

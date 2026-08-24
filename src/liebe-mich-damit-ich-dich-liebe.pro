@@ -1,5 +1,5 @@
 {title: Liebe Mich, damit Ich dich liebe}
-{words: Bahá’u’lláh}
+{words: }
 {music: Alexander Dohe}
 {song_url: https://bsp.app/liebe-mich-damit-ich-dich-liebe}
 

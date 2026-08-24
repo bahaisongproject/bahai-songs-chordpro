@@ -1,5 +1,5 @@
 {title: God Grant}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/god-grant}
 

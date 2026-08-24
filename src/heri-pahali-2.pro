@@ -1,5 +1,5 @@
 {title: Heri Pahali}
-{words: Bahá’u’lláh}
+{words: }
 {music: Dermot McHugh}
 {song_url: https://bsp.app/heri-pahali-2}
 

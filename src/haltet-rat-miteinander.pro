@@ -1,6 +1,6 @@
 {title: Haltet Rat miteinander}
-{words: Bahá’u’lláh}
-{music: Children's Class Oberhaching, Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/haltet-rat-miteinander}
 
 [D] ||: Haltet [C]Rat mitei[F]nander in al[G]len Angelegen[D]heiten :||

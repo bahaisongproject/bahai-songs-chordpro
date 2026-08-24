@@ -1,5 +1,5 @@
 {title: The Beloved of the Merciful}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/the-beloved-of-the-merciful}
 

@@ -1,6 +1,6 @@
 {title: Paradise}
 {words: }
-{music: Tom Francis}
+{music: }
 {song_url: https://bsp.app/paradise}
 
 {capo: 4}

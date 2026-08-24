@@ -1,5 +1,5 @@
 {title: Der Wandel der Menschenherzen}
-{words: Bahá’u’lláh}
+{words: Alexander Dohe}
 {music: Alexander Dohe}
 {song_url: https://bsp.app/der-wandel-der-menschenherzen}
 

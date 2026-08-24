@@ -1,6 +1,6 @@
 {title: The Call to Service}
 {words: }
-{music: Laith Mohajer, Nima Neubrand, Nura Enayati, Nuri Modabber, Serene Koen}
+{music: Laith Mohajer, Nima Neubrand, Nura Enayati, Nuri Modabber & Serene Koen}
 {song_url: https://bsp.app/the-call-to-service}
 
 

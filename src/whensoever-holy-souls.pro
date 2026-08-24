@@ -1,5 +1,5 @@
 {title: Whensoever Holy Souls}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/whensoever-holy-souls}
 

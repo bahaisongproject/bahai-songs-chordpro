@@ -1,5 +1,5 @@
 {title: Unite}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Ali Youssefi}
 {song_url: https://bsp.app/unite}
 

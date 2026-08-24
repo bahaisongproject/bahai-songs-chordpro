@@ -1,5 +1,5 @@
 {title: Strive That Day by Day}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Dicky Fusco}
 {song_url: https://bsp.app/strive-that-day-by-day}
 

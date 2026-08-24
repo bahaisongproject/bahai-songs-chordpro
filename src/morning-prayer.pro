@@ -1,6 +1,6 @@
 {title: Morning Prayer}
-{words: Bahá’u’lláh}
-{music: Dani Lutley, Mey Spiegel}
+{words: }
+{music: Dani Lutley & Mey Spiegel}
 {song_url: https://bsp.app/morning-prayer}
 
 {define: Dmaj9 base-fret 1 frets 2 0 0 2 2 0}

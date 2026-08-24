@@ -1,6 +1,6 @@
 {title: Felice}
-{words: ‘Abdu’l-Bahá}
-{music: Anis, Ilen, Joelle, Matin & Shiva}
+{words: }
+{music: }
 {song_url: https://bsp.app/felice}
 
 Fel[A]ice l'anima ch[E]e, in quest'[D]era lumin[A]os[E]a, 

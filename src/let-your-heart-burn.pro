@@ -1,5 +1,5 @@
 {title: Let Your Heart Burn}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Rosanna Lea}
 {song_url: https://bsp.app/let-your-heart-burn}
 

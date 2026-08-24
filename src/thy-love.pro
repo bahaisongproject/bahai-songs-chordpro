@@ -1,5 +1,5 @@
 {title: Thy Love}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Kelsey Bulkin}
 {song_url: https://bsp.app/thy-love}
 

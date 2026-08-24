@@ -1,5 +1,5 @@
 {title: Blaženo je tlo}
-{words: Bahá’u’lláh}
+{words: }
 {music: Melody Mazloom}
 {song_url: https://bsp.app/blazeno-je-tlo}
 

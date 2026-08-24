@@ -1,5 +1,5 @@
 {title: Verherrliche Meine Sache}
-{words: Bahá’u’lláh}
+{words: }
 {music: Alexander Dohe}
 {song_url: https://bsp.app/verherrliche-meine-sache}
 

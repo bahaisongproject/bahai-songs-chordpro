@@ -1,6 +1,6 @@
 {title: Where There Is Love}
-{words: ‘Abdu’l-Bahá}
-{music: Aijia Grammer, Andy Grammer, Durban Bahá'í Choir}
+{words: }
+{music: Aijia Grammer & Andy Grammer}
 {song_url: https://bsp.app/where-there-is-love-2}
 
 {c:Group 1}

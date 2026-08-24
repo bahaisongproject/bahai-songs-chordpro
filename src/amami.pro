@@ -1,5 +1,5 @@
 {title: Amami}
-{words: Bahá’u’lláh}
+{words: }
 {music: Naim Abid}
 {song_url: https://bsp.app/amami}
 

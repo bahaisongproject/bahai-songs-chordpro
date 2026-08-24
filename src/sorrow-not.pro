@@ -1,6 +1,6 @@
 {title: Sorrow Not}
-{words: Bahá’u’lláh}
-{music: Alexander Riedesser, Kian Panahi}
+{words: }
+{music: Alexander Riedesser & Kian Panahi}
 {song_url: https://bsp.app/sorrow-not}
 
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}

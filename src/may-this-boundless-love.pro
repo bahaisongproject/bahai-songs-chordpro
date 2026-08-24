@@ -1,6 +1,6 @@
 {title: May This Boundless Love}
-{words: ‘Abdu’l-Bahá}
-{music: Fresno Bahá'í Community}
+{words: }
+{music: }
 {song_url: https://bsp.app/may-this-boundless-love}
 
 {define: E7 base-fret 1 frets 0 2 0 1 0 0}

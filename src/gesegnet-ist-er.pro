@@ -1,6 +1,6 @@
 {title: Gesegnet ist Er}
-{words: Bahá’u’lláh}
-{music: Intoned at an institute camp in Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/gesegnet-ist-er}
 
 {capo: 2}

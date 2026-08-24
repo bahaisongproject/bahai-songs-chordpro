@@ -1,5 +1,5 @@
 {title: Ô Fils de l'Existence}
-{words: Bahá’u’lláh}
+{words: }
 {music: Clarisse Le Deun}
 {song_url: https://bsp.app/o-fils-de-lexistence}
 

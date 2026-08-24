@@ -1,5 +1,5 @@
 {title: Ye Are Even as the Fire}
-{words: The Báb}
+{words: }
 {music: Ben Lockwood}
 {song_url: https://bsp.app/ye-are-even-as-the-fire}
 

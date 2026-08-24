@@ -1,5 +1,5 @@
 {title: O Thou Beloved}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: William Metts}
 {song_url: https://bsp.app/o-thou-beloved}
 

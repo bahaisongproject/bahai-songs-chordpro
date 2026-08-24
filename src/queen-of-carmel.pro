@@ -1,6 +1,6 @@
 {title: Queen of Carmel}
 {words: }
-{music: Jean Murday}
+{music: }
 {song_url: https://bsp.app/queen-of-carmel}
 
 St[C]anding [F]on the m[C]ount[Am]ain, l[F]ooking acr[G]oss the b[C]ay.

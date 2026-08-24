@@ -1,5 +1,5 @@
 {title: Blessed}
-{words: Bahá’u’lláh}
+{words: }
 {music: Melody Mazloom}
 {song_url: https://bsp.app/blessed-3}
 

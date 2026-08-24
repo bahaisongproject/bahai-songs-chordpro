@@ -1,6 +1,6 @@
 {title: Refrenergy}
-{words: ‘Abdu’l-Bahá}
-{music: Devon Gundry}
+{words: }
+{music: }
 {song_url: https://bsp.app/refrenergy}
 
 [C]O G[G]od! Refr[Am]esh and gladden my [F] spirit!

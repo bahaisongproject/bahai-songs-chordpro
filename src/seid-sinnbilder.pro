@@ -1,6 +1,6 @@
 {title: Seid Sinnbilder}
-{words: ‘Abdu’l-Bahá}
-{music: Teaching Project, Munich, Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/seid-sinnbilder}
 
 [C]   Seid S[Am]innbilder der F[G]ühr[Am]ung

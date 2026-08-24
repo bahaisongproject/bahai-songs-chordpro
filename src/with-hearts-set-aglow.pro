@@ -1,6 +1,6 @@
 {title: With Hearts Set Aglow}
-{words: ‘Abdu’l-Bahá}
-{music: Intoned at the Newport youth initiative training 2015}
+{words: }
+{music: }
 {song_url: https://bsp.app/with-hearts-set-aglow}
 
 {capo: 3}

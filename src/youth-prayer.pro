@@ -1,5 +1,5 @@
 {title: Youth Prayer}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Mateen Navidi}
 {song_url: https://bsp.app/youth-prayer}
 

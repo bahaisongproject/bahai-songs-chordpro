@@ -1,5 +1,5 @@
 {title: Ya Allah El Mustaghas}
-{words: The Báb}
+{words: }
 {music: Wayne Rollack}
 {song_url: https://bsp.app/ya-allah-el-mustaghas}
 

@@ -1,6 +1,6 @@
 {title: The Period of Youth}
-{words: ‘Abdu’l-Bahá}
-{music: Farah Haji, Maya Asdaghi}
+{words: }
+{music: Farah Haji & Maya Asdaghi}
 {song_url: https://bsp.app/the-period-of-youth}
 
 [C] [G7] [F] [G]

@@ -1,6 +1,6 @@
 {title: Singe die Verse Gottes}
 {words: }
-{music: Anisa Enayati, Lasse Nieruch, Nima Neubrand, Nuri Modabber}
+{music: Anisa Enayati, Lasse Nieruch, Nima Neubrand & Nuri Modabber}
 {song_url: https://bsp.app/singe-die-verse-gottes}
 
 {key: G}

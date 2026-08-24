@@ -1,5 +1,5 @@
 {title: Sorrow Not}
-{words: Bahá’u’lláh}
+{words: }
 {music: Maya Asdaghi}
 {song_url: https://bsp.app/sorrow-not-2}
 

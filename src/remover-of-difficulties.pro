@@ -1,5 +1,5 @@
 {title: Remover of Difficulties}
-{words: The Báb}
+{words: }
 {music: }
 {song_url: https://bsp.app/remover-of-difficulties}
 

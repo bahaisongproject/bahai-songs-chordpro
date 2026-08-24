@@ -1,5 +1,5 @@
 {title: O ti blagi Gospodine}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-ti-blagi-gospodine}
 

@@ -1,5 +1,5 @@
 {title: O Lord Protect Us}
-{words: The Báb}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-lord-protect-us}
 

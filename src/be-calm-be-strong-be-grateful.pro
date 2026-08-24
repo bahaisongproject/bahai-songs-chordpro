@@ -1,5 +1,5 @@
 {title: Be Calm Be Strong Be Grateful}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Clara Haskell}
 {song_url: https://bsp.app/be-calm-be-strong-be-grateful}
 

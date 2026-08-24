@@ -1,6 +1,6 @@
 {title: Der Verheißene}
 {words: }
-{music: Sarah Liebler, Ursula Sabet}
+{music: Sarah Liebler & Ursula Sabet}
 {song_url: https://bsp.app/der-verheissene}
 
 W[Am]ahrlich, der M[C]orgen eines n[G]euen [D]Tages

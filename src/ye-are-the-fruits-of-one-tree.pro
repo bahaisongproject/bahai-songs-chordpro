@@ -1,5 +1,5 @@
 {title: Ye Are the Fruits of One Tree}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/ye-are-the-fruits-of-one-tree}
 

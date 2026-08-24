@@ -1,6 +1,6 @@
 {title: In der Tat}
 {words: }
-{music: Lasse Nieruch, Nima Neubrand}
+{music: Lasse Nieruch & Nima Neubrand}
 {song_url: https://bsp.app/in-der-tat}
 
 {key: C}

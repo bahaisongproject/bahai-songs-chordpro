@@ -1,6 +1,6 @@
 {title: Service Prayer}
-{words: Bahá’u’lláh}
-{music: Mica Smith, Nadine Reyhani}
+{words: }
+{music: }
 {song_url: https://bsp.app/service-prayer}
 
 {capo: 1}

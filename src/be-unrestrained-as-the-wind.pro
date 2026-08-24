@@ -1,6 +1,6 @@
 {title: Be Unrestrained as the Wind}
-{words: Bahá’u’lláh}
-{music: Arian Ziaie, Navid Sabet}
+{words: }
+{music: Arian Ziaie & Navid Sabet}
 {song_url: https://bsp.app/be-unrestrained-as-the-wind}
 
 {capo: 3}

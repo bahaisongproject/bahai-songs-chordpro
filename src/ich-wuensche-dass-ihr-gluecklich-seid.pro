@@ -1,5 +1,5 @@
 {title: Ich wünsche, dass Ihr glücklich seid}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/ich-wuensche-dass-ihr-gluecklich-seid}
 

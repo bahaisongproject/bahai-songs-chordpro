@@ -1,6 +1,6 @@
 {title: The Báb}
-{words: The Báb}
-{music: Naim Zabihi, Negin Zabihi, Pascal Naim Schmidt}
+{words: }
+{music: Naim Zabihi, Negin Zabihi & Pascal Naim Schmidt}
 {song_url: https://bsp.app/the-bab}
 
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}

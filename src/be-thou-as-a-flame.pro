@@ -1,5 +1,5 @@
 {title: Be Thou as a Flame}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/be-thou-as-a-flame}
 

@@ -1,5 +1,5 @@
 {title: O Lord I Am Weak}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-lord-i-am-weak}
 

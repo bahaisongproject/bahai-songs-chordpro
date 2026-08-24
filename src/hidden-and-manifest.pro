@@ -1,5 +1,5 @@
 {title: Hidden & Manifest}
-{words: Bahá’u’lláh}
+{words: }
 {music: James Mohajer}
 {song_url: https://bsp.app/hidden-and-manifest}
 

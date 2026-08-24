@@ -1,6 +1,6 @@
 {title: Sollte Jemand}
 {words: }
-{music: Armin Golar, Nuri Modabber}
+{music: Armin Golar & Nuri Modabber}
 {song_url: https://bsp.app/sollte-jemand}
 
 

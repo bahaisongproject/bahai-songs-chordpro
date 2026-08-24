@@ -1,5 +1,5 @@
 {title: Thou Seest Me}
-{words: ‘Abdu’l-Bahá & Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/thou-seest-me}
 

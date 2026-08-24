@@ -1,5 +1,5 @@
 {title: Gott Schenkt Genüge}
-{words: The Báb}
+{words: }
 {music: }
 {song_url: https://bsp.app/gott-schenkt-genuege}
 

@@ -1,6 +1,6 @@
 {title: Heri Pahali}
-{words: Bahá’u’lláh}
-{music: Brina, Dermot McHugh}
+{words: }
+{music: Dermot McHugh}
 {song_url: https://bsp.app/heri-pahali}
 
 ||: H[A]eri pahali

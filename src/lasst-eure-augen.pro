@@ -1,6 +1,6 @@
 {title: Lasst Eure Augen}
-{words: Bahá’u’lláh}
-{music: Intoned by a Ruhi Book 1 study circle in Vienna, Austria}
+{words: }
+{music: }
 {song_url: https://bsp.app/lasst-eure-augen}
 
 {define: Fmaj7 base-fret 1 frets 0 0 2 2 1 1}

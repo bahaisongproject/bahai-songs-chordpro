@@ -1,6 +1,6 @@
 {title: Paradise of the Placeless}
-{words: Bahá’u’lláh}
-{music: The Hidden Words}
+{words: }
+{music: }
 {song_url: https://bsp.app/paradise-of-the-placeless}
 
 {define: Bb base-fret 6 frets 1 3 3 2 1 1}

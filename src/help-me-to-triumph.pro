@@ -1,5 +1,5 @@
 {title: Help Me to Triumph}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/help-me-to-triumph}
 

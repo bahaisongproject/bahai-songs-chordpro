@@ -1,6 +1,6 @@
 {title: Look At Me, Follow Me}
 {words: }
-{music: Music Of The Bahá'í World Congress New York 1992}
+{music: }
 {song_url: https://bsp.app/look-at-me-follow-me}
 
 {capo: 4}

@@ -1,5 +1,5 @@
 {title: Unto Thee I Repair for Refuge}
-{words: The Báb}
+{words: }
 {music: Pooya Poostchi}
 {song_url: https://bsp.app/unto-thee-i-repair-for-refuge-2}
 

@@ -1,5 +1,5 @@
 {title: Dis Dieu}
-{words: The Báb}
+{words: }
 {music: Joanna Naegeli}
 {song_url: https://bsp.app/dis-dieu}
 

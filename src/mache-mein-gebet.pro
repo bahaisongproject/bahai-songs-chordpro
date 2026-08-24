@@ -1,6 +1,6 @@
 {title: Mache Mein Gebet}
-{words: Bahá’u’lláh}
-{music: Intoned at an institute camp in Munich, Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/mache-mein-gebet}
 
 {capo: 3}

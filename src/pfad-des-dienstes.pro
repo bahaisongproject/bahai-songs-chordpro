@@ -1,6 +1,6 @@
 {title: Pfad des Dienstes}
-{words: }
-{music: Julia Olenius, Kiana Mohtadi, Negin Zabihi}
+{words: Julia Olenius, Kiana Mohtadi & Negin Zabihi}
+{music: Julia Olenius, Kiana Mohtadi & Negin Zabihi}
 {song_url: https://bsp.app/pfad-des-dienstes}
 
 {capo: 1}

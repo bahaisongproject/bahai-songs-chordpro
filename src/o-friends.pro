@@ -1,5 +1,5 @@
 {title: O Friends}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-friends}
 

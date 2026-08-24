@@ -1,6 +1,6 @@
 {title: O Freund}
 {words: }
-{music: Nima Neubrand}
+{music: }
 {song_url: https://bsp.app/o-freund}
 
 {capo: 3}

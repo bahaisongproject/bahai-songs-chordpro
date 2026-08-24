@@ -1,6 +1,6 @@
 {title: Verily I Say}
-{words: Bahá’u’lláh}
-{music: Nadia Affolter, Nura Jones}
+{words: }
+{music: Nadia Affolter & Nura Jones}
 {song_url: https://bsp.app/verily-i-say-2}
 
 Verily I [C]say, this is the [G]day,

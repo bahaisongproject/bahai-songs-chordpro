@@ -1,6 +1,6 @@
 {title: Heute ist der Tag}
 {words: }
-{music: Armin Golar, Negin Zabihi}
+{music: Armin Golar & Negin Zabihi}
 {song_url: https://bsp.app/heute-ist-der-tag}
 
 {key: E}

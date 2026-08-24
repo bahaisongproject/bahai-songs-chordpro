@@ -1,6 +1,6 @@
 {title: These Holy Souls}
 {words: }
-{music: Carmel Mahdi, Milad Mahdi}
+{music: Carmel Mahdi & Milad Mahdi}
 {song_url: https://bsp.app/these-holy-souls}
 
 {capo: 1}

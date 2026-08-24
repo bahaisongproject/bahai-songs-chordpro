@@ -1,6 +1,6 @@
 {title: O Immortal Phoenix}
-{words: Bahá’u’lláh}
-{music: Alexis Semple, Rosalynd Koch, Sheyda Peyman}
+{words: }
+{music: Alexis Semple, Rosalynd Koch & Sheyda Peyman}
 {song_url: https://bsp.app/o-immortal-phoenix}
 
 {define: chord base-fret 1 frets 0 2 2 1 0 0}

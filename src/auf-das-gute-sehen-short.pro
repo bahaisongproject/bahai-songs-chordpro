@@ -1,6 +1,6 @@
 {title: Auf das Gute sehen}
-{words: }
-{music: David Hunt, Jonas Bruckmann}
+{words: David Hunt}
+{music: David Hunt}
 {song_url: https://bsp.app/auf-das-gute-sehen-short}
 
 Ich hab Vor[C]trefflichkeit als Ziel, doch bis dor[F7]thin braucht es noch viel.

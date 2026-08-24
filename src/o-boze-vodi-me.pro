@@ -1,5 +1,5 @@
 {title: O, Bože, vodi me}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Vahid Zierau}
 {song_url: https://bsp.app/o-boze-vodi-me}
 

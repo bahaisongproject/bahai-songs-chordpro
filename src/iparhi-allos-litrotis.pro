@@ -1,5 +1,5 @@
 {title: Iparhi Allos Litrotis}
-{words: The Báb}
+{words: }
 {music: Georg Meyer zu Schwabedissen}
 {song_url: https://bsp.app/iparhi-allos-litrotis}
 

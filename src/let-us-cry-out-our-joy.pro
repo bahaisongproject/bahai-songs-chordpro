@@ -1,5 +1,5 @@
 {title: Let Us Cry Out Our Joy}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/let-us-cry-out-our-joy}
 

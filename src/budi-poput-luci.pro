@@ -1,5 +1,5 @@
 {title: Budi poput luči}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/budi-poput-luci}
 

@@ -1,5 +1,5 @@
 {title: Frohlocke vor Herzensfreude}
-{words: Bahá’u’lláh}
+{words: }
 {music: Nadine Reyhani}
 {song_url: https://bsp.app/frohlocke-vor-herzensfreude}
 

@@ -1,5 +1,5 @@
 {title: O Perëndi, Më Udhëhiq, Më Mbro}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-perendi-me-udhehiq-me-mbro}
 

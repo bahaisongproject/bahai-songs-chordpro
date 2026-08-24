@@ -1,5 +1,5 @@
 {title: If Any Differences}
-{words: Bahá’u’lláh}
+{words: }
 {music: }
 {song_url: https://bsp.app/if-any-differences}
 

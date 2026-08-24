@@ -1,5 +1,5 @@
 {title: This Most Great Dispensation}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: The Bahá'í Trio}
 {song_url: https://bsp.app/this-most-great-dispensation}
 

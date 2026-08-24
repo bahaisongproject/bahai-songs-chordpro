@@ -1,5 +1,5 @@
 {title: In the Love}
-{words: Baháʼu'lláh}
+{words: }
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/in-the-love}
 

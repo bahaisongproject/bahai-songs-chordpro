@@ -1,6 +1,6 @@
 {title: Ich Ermahne Euch}
-{words: ‘Abdu’l-Bahá}
-{music: Intoned by a Ruhi Book 7 study circle in Germany}
+{words: }
+{music: }
 {song_url: https://bsp.app/ich-ermahne-euch}
 
 ||: [Am]Ich ermahne [F]euch 

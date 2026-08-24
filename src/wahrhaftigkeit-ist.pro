@@ -1,6 +1,6 @@
 {title: Wahrhaftigkeit ist}
 {words: }
-{music: Nabil Mangenda, Nuri Modabber}
+{music: Nabil Mangenda & Nuri Modabber}
 {song_url: https://bsp.app/wahrhaftigkeit-ist}
 
 {capo: 2}

@@ -1,6 +1,6 @@
 {title: Find Me}
-{words: Bahá’u’lláh}
-{music: Hoda Toloui-Wallace, Sahar Zandieh}
+{words: }
+{music: Hoda Toloui-Wallace & Sahar Zandieh}
 {song_url: https://bsp.app/find-me}
 
 {capo: 3}

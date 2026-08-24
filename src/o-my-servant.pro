@@ -1,6 +1,6 @@
 {title: O My Servant}
-{words: Bahá’u’lláh}
-{music: Alexander Riedesser, Kian Panahi}
+{words: }
+{music: Alexander Riedesser & Kian Panahi}
 {song_url: https://bsp.app/o-my-servant}
 
 {capo: 3}

@@ -1,5 +1,5 @@
 {title: O Thou Compassionate Lord}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/o-thou-compassionate-lord}
 

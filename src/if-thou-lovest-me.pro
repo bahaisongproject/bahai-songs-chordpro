@@ -1,5 +1,5 @@
 {title: If Thou Lovest Me}
-{words: Bahá’u’lláh}
+{words: }
 {music: The Badasht Project}
 {song_url: https://bsp.app/if-thou-lovest-me}
 

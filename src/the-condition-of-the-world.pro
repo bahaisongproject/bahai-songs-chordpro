@@ -1,6 +1,6 @@
 {title: The Condition of the World}
 {words: }
-{music: Daryan Rahmatian, Nadine Foadi, Serene Koen}
+{music: Daryan Rahmatian, Nadine Foadi & Serene Koen}
 {song_url: https://bsp.app/the-condition-of-the-world}
 
 {capo: 2}

@@ -1,6 +1,6 @@
 {title: Say}
-{words: The Báb}
-{music: Eric Harper}
+{words: }
+{music: }
 {song_url: https://bsp.app/say}
 
 {c:Verse}

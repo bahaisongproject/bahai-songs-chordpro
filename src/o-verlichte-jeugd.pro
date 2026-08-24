@@ -1,5 +1,5 @@
 {title: O Verlichte Jeugd}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Naim Pilon}
 {song_url: https://bsp.app/o-verlichte-jeugd}
 

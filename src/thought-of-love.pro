@@ -1,6 +1,6 @@
 {title: Thought of Love}
-{words: ‘Abdu’l-Bahá}
-{music: Delara, Nica & Sahar}
+{words: }
+{music: }
 {song_url: https://bsp.app/thought-of-love}
 
 [G]

@@ -1,5 +1,5 @@
 {title: O That I Could Travel}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: James Mohajer}
 {song_url: https://bsp.app/o-that-i-could-travel-2}
 

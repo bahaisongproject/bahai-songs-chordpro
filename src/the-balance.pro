@@ -1,6 +1,6 @@
 {title: The Balance}
-{words: ‘Abdu’l-Bahá}
-{music: Amelia Rae, Juliet Rasekhy}
+{words: }
+{music: Amelia Rae & Juliet Rasekhy}
 {song_url: https://bsp.app/the-balance}
 
 [Am] [E] [Am] [E] [E] [Am]

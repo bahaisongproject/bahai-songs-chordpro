@@ -1,5 +1,5 @@
 {title: Oo Jumal Juhata Mind}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/oo-jumal-juhata-mind-o-god-guide-me}
 

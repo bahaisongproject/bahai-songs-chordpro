@@ -1,5 +1,5 @@
 {title: Myriads of Mystic Tongues}
-{words: Bahá’u’lláh}
+{words: }
 {music: Ameli Dziemba}
 {song_url: https://bsp.app/myriads-of-mystic-tongues}
 

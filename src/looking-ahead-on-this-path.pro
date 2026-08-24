@@ -1,6 +1,6 @@
 {title: Looking ahead on this path}
-{words: The Universal House of Justice}
-{music: Put to music by a group of youth from Auckland, New Zealand}
+{words: }
+{music: }
 {song_url: https://bsp.app/looking-ahead-on-this-path}
 
 {capo: 5}

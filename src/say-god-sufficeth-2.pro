@@ -1,6 +1,6 @@
 {title: Say God Sufficeth}
-{words: The Báb}
-{music: Tom Francis}
+{words: }
+{music: }
 {song_url: https://bsp.app/say-god-sufficeth-2}
 
 [A#m] [F#] [C#] [G#]

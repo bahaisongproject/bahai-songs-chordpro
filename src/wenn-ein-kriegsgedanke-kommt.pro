@@ -1,6 +1,6 @@
 {title: Wenn ein Kriegsgedanke kommt}
 {words: }
-{music: Nuri Modabber}
+{music: }
 {song_url: https://bsp.app/wenn-ein-kriegsgedanke-kommt}
 
 Wenn ein [G]Kriegsgedanke kommt, widersteht ihm mit einem [C]stärkeren, stärkeren Gedanken des Friedens

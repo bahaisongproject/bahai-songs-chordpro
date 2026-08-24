@@ -1,6 +1,6 @@
 {title: Moja nesreća Moja je providnost}
-{words: Bahá’u’lláh}
-{music: Jonas Czimek, Ritika Ghose}
+{words: }
+{music: Jonas Czimek & Ritika Ghose}
 {song_url: https://bsp.app/moja-nesreca-moja-je-providnost}
 
 [C] [Am] [F] [G]

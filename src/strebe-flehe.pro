@@ -1,6 +1,6 @@
 {title: Strebe, Flehe}
-{words: ‘Abdu’l-Bahá}
-{music: Alexander Blom, Anke Keitel}
+{words: }
+{music: Alexander Blom & Anke Keitel}
 {song_url: https://bsp.app/strebe-flehe}
 
 ||: Str[Am]ebe, fl[C]ehe und b[F]ete zu G[E]ott :||

@@ -1,5 +1,5 @@
 {title: O Lord Provide}
-{words: The Báb}
+{words: }
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/o-lord-provide}
 

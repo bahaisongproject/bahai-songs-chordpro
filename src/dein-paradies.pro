@@ -1,5 +1,5 @@
 {title: Dein Paradies}
-{words: Bahá’u’lláh}
+{words: }
 {music: Levin Zendeh}
 {song_url: https://bsp.app/dein-paradies}
 

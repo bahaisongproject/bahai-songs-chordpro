@@ -1,5 +1,5 @@
 {title: When a Drop Draws Help}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Calla Kinglit}
 {song_url: https://bsp.app/when-a-drop-draws-help}
 

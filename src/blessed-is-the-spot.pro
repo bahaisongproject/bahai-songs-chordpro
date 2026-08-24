@@ -1,6 +1,6 @@
 {title: Blessed is the Spot}
-{words: Bahá’u’lláh}
-{music: The Irish Bahá'ís}
+{words: }
+{music: }
 {song_url: https://bsp.app/blessed-is-the-spot}
 
 {define: Am/G base-fret 1 frets 3 0 2 2 1 0}

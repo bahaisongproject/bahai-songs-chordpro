@@ -1,5 +1,5 @@
 {title: Kindle the Fire of Love}
-{words: Bahá’u’lláh}
+{words: }
 {music: Robert Bennet}
 {song_url: https://bsp.app/kindle-the-fire-of-love}
 

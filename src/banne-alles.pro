@@ -1,5 +1,5 @@
 {title: Banne Alles}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Corinne Bahia}
 {song_url: https://bsp.app/banne-alles}
 

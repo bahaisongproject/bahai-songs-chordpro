@@ -1,5 +1,5 @@
 {title: Erquicke}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Chad Smith}
 {song_url: https://bsp.app/erquicke}
 

@@ -1,6 +1,6 @@
 {title: Als een Lamp}
-{words: Bahá’u’lláh}
-{music: Claudia Peralta, Naim Pilon}
+{words: }
+{music: Claudia Peralta & Naim Pilon}
 {song_url: https://bsp.app/als-een-lamp}
 
 {capo: 4}

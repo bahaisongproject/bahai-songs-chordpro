@@ -1,5 +1,5 @@
 {title: I Loved Thy Creation}
-{words: Bahá’u’lláh}
+{words: }
 {music: Rafe Bundy}
 {song_url: https://bsp.app/i-loved-thy-creation}
 

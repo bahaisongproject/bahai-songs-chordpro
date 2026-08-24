@@ -1,5 +1,5 @@
 {title: Whither Can a Lover Go}
-{words: Bahá’u’lláh}
+{words: }
 {music: Alexandra Mahally}
 {song_url: https://bsp.app/whither-can-a-lover-go}
 

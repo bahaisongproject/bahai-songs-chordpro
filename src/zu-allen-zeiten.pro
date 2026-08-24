@@ -1,5 +1,5 @@
 {title: Zu Allen Zeiten}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: }
 {song_url: https://bsp.app/zu-allen-zeiten}
 
