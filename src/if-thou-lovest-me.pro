@@ -11,4 +11,5 @@ If thou s[Am]eekest My pl[Em]easure, reg[F]ard not thine [C]own; [C/B]:||
 ||: That th[Am]ou, that th[Em]ou mayest d[F]ie in M[C]e [C/B]
 and [Am]I may et[Em]ernally l[F]ive in the[C]e :||
 
-[D]||: O Son of M[F]an! :||
+[D]O Son of M[C]an!
+[D]O Son of M[F]an!
