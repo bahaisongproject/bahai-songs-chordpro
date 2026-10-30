@@ -25,4 +25,4 @@
 [Am]el espiritu de vida [G]es [Em]el [Am]amor
 [Am]el mayor don del hombre [G]es [Em]el [Am]amor 
 
-Am G Em
+[Am] [G] [Em]
