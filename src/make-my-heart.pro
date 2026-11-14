@@ -13,7 +13,7 @@ the [G]sign of Thy mer[F]cy,
 
 ||: a token of [Am]Thy grace,
 promoter of [C]concord
-amongst Thy [G]loved ones,
+amongst Thy [Em]loved ones,
 devoted to [F]Thee :||
 
 [F]
@@ -26,5 +26,5 @@ the [G]sign of Thy mer[F]cy,
 {c:7 times}
 a token of [Am]Thy grace,
 promoter of [C]concord
-amongst Thy [G]loved ones,
+amongst Thy [Em]loved ones,
 devoted to [F]Thee
